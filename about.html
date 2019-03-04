@@ -1,0 +1,34 @@
+---
+---
+
+{% include heading.html heading="About Us" %}
+
+<div class="row">
+  <div class="col-sm-3">
+    <div class="square">
+    </div>
+  </div>
+  <div class="col-sm-9">
+    <p style="font-weight: bold">
+      {{site.data.about.introduction}}
+    </p>
+    <div class="red-rule bottom">
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-12">
+    {% for paragraph in site.data.about.paragraphs %}
+      <p>
+        <strong>{{paragraph.title}}</strong> {{paragraph.body}}
+      </p>
+      {% if paragraph.points %}
+        <ul>
+          {% for point in paragraph.points %}
+            <li>{{point}}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

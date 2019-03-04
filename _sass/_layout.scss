@@ -1,0 +1,49 @@
+.container {
+  width: 750px;
+  padding: 15px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1em;
+}
+
+.row > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
+}
+
+.heading-container {
+  display: flex;
+  justify-content: center;
+}
+
+.heading {
+  font-family: $title-font-family;
+  font-size: 3em;
+  margin-top: 2em;
+}
+
+.red-rule {
+  &.bottom {
+    position: absolute;
+    bottom: 0;
+  }
+  background: red;
+  height: 1em;
+  width: 90%;
+  margin-bottom: 1em;
+}
+
+.square {
+  width: 100%;
+  background: grey;
+  margin-bottom: 1em;
+}
+
+.square:after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}

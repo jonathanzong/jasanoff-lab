@@ -1,0 +1,27 @@
+{
+  "introduction": "Our lab studies large-scale dynamics of the living brain using next-generation experimental methods. Here are some of our research interests:",
+  "paragraphs": [
+    {
+      "title": "Neuroengineering.",
+      "body": "Understanding functions of the brain requires a new generation of experimental tools suitable for probing defined components of neural activity on a brain-wide scale. Our laboratory is particularly focused on noninvasive approaches for mapping brain activity, including methods that could eventually be applied in human subjects. Our work involves the convergence of neuroscience, molecular and cellular bioengineering, and chemistry, including nanotechnology approaches for sensitive measurements of brain function. Our group brings together diverse interests and expertise at the interfaces between these fields."
+    },
+    {
+      "title": "Brain-wide dynamics.",
+      "body": "Perhaps the greatest challenge in experimental neuroscience today is to understand how dynamic molecular and cellular phenomena in the brain give rise to emergent properties of behavior and cognition. Techniques we are developing and applying in our lab offer unique capability for making this connection, because they enable signaling processes to be measured in deep brain tissue, over wide regions of the brain, in live animals of any size. Some of the questions we are most interested in include:",
+      "points": [
+        "a",
+        "b",
+        "c"
+      ]
+    },
+    {
+      "title": "Molecular imaging.",
+      "body": "Our laboratory is developing unprecedented technology for molecular-level imaging in the nervous system. We focus largely on magnetic resonance imaging (MRI)-based methods, because MRI can provide whole-brain in vivo analogs of the powerful readouts optical imaging offers in invasive or ex vivo contexts. Some of our tools are compatible with other imaging techniques as well. Our laboratory has achieved a number of important milestones, which we are continually seeking to exploit and build upon:",
+      "points": [
+        "a",
+        "b",
+        "c"
+      ]
+    },
+  ]
+}

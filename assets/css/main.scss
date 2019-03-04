@@ -1,0 +1,45 @@
+---
+---
+@charset "utf-8";
+
+// variables
+$title-stencil-font-family: "Red October Stencil", Helvetica, Arial, sans-serif;
+$title-font-family: "Red October", Helvetica, Arial, sans-serif;
+$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+
+$sm-breakpoint:       768px;
+
+@mixin sm() {
+    @media screen and (max-width: $sm-breakpoint) {
+        @content;
+    }
+}
+
+@font-face {
+  font-family: "Red October";
+  src: url('/assets/fonts/Red October-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: "Red October";
+  src: url('/assets/fonts/Red October-Fat.ttf') format('truetype');
+  font-style: bold;
+}
+@font-face {
+  font-family: "Red October Stencil";
+  src: url('/assets/fonts/Red October-Stencil.ttf') format('truetype');
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "grid",
+        "layout"
+;

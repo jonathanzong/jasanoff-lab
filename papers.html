@@ -1,0 +1,24 @@
+---
+---
+
+{% include heading.html heading="Papers" %}
+
+{% for paper in site.data.papers %}
+  <div class="row">
+    <div class="col-sm-3">
+      <p style="font-weight: bold; font-size: 2em; margin-top: -12px; text-align: right">
+        {{paper[0]}}
+      </p>
+      <div class="square">
+      </div>
+    </div>
+    <div class="col-sm-9">
+      <div class="red-rule" style="margin-bottom: 2em;">
+      </div>
+      <p>
+        {{paper[1]}}
+      </p>
+    </div>
+  </div>
+{% endfor %}
+
