@@ -1,3 +1,11 @@
+a {
+  text-decoration: none;
+  color: red;
+  &:hover {
+    color: #a00;
+  }
+}
+
 .container {
   width: 750px;
   padding: 15px;
@@ -30,8 +38,7 @@
 
 .red-rule {
   &.bottom {
-    position: absolute;
-    bottom: 0;
+    margin-top: auto
   }
   background: red;
   height: 1em;
@@ -100,16 +107,18 @@
   width: 750px;
   background: rgba(255,255,255,0.95);
   padding-top: 2em;
+  text-align: center;
 }
 
 .nav-menu a {
-  display: block;
   font-family: $title-font-family;
   font-size: 3em;
   text-decoration: none;
-  text-align: center;
   color: red;
   &.active {
     color: black;
+  }
+  &:hover:not(.active) {
+    color: #e00;
   }
 }

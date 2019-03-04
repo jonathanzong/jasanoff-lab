@@ -5,12 +5,24 @@
   </div>
 
   <nav class="nav-menu">
-    <a href="/" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
-    <a href="/about" {% if page.url == '/about' %}class="active"{% endif %}>About</a>
-    <a href="/book" {% if page.url == '/book' %}class="active"{% endif %}>Book</a>
-    <a href="/contact" {% if page.url == '/contact' %}class="active"{% endif %}>Contact</a>
-    <a href="/papers" {% if page.url == '/papers' %}class="active"{% endif %}>Papers</a>
-    <a href="/people" {% if page.url == '/people' %}class="active"{% endif %}>People</a>
+    <div>
+      <a href="/" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
+    </div>
+    <div>
+      <a href="/about" {% if page.url == '/about.html' %}class="active"{% endif %}>About</a>
+    </div>
+    <div>
+      <a href="/book" {% if page.url == '/book.html' %}class="active"{% endif %}>Book</a>
+    </div>
+    <div>
+      <a href="/contact" {% if page.url == '/contact.html' %}class="active"{% endif %}>Contact</a>
+    </div>
+    <div>
+      <a href="/papers" {% if page.url == '/papers.html' %}class="active"{% endif %}>Papers</a>
+    </div>
+    <div>
+      <a href="/people" {% if page.url == '/people.html' %}class="active"{% endif %}>People</a>
+    </div>
   </nav>
 
 </div>
