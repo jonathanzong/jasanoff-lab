@@ -17,7 +17,7 @@
 # Build settings
 title: "Jasanoff Lab | MIT"
 description: "Seeing the brain in new ways. Jasanoff Lab at MIT."
-baseurl: ""
+baseurl: "/jasanoff-lab/"
 
 markdown: kramdown
 theme: minima
