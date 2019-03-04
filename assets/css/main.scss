@@ -25,16 +25,16 @@ $sm-breakpoint:       768px;
 
 @font-face {
   font-family: "Red October";
-  src: url('/assets/fonts/Red October-Regular.ttf') format('truetype');
+  src: url('{{ "/assets/fonts/Red October-Regular.ttf" | prepend: site.baseurl }}') format('truetype');
 }
 @font-face {
   font-family: "Red October";
-  src: url('/assets/fonts/Red October-Fat.ttf') format('truetype');
+  src: url('{{ "/assets/fonts/Red October-Fat.ttf" | prepend: site.baseurl }}') format('truetype');
   font-style: bold;
 }
 @font-face {
   font-family: "Red October Stencil";
-  src: url('/assets/fonts/Red October-Stencil.ttf') format('truetype');
+  src: url('{{ "/assets/fonts/Red October-Stencil.ttf" | prepend: site.baseurl }}') format('truetype');
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
