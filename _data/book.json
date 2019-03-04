@@ -1,0 +1,33 @@
+{
+  "title": "The Biological Mind",
+  "details": ["Basic Books (2018)", "304 pp."],
+  "introduction": "This book explores the brain’s nature as a meeting point between internal and external influences on the human mind. Common stereotypes about brain function tend to mask this nature, in a phenomenon Jasanoff refers to as the “cerebral mystique.” Exaggeration of the brain’s computational characteristics, complexity, compartmentalized function, control, and autonomy lead to soul-like views of our mental organ, allowing us to hang onto old-fashioned conceptions of individuality and free will. A more biologically realistic view of the brain promotes better awareness of the interdependent world we live in, and could help us become better people.",
+  "links": [
+    {
+      "text": "Click here to see a presentation about the book, aimed at general viewership.",
+      "url": "www.mit.edu"
+    },
+    {
+      "text": "Click here to read a non-technical essay covering main points of the book.",
+      "url": "www.mit.edu"
+    },
+    {
+      "text": "Click here to view or purchase on Amazon.com.",
+      "url": "www.mit.edu"
+    }
+  ],
+  "content": {
+    "title": "From the publisher:",
+    "text": "To many, the brain is the seat of personal identity and autonomy. But the way we talk about the brain is often rooted more in mystical conceptions of the soul than in scientific fact. This blinds us to the physical realities of mental function. We ignore bodily influences on our psychology, from chemicals in the blood to bacteria in the gut, and overlook the ways that the environment affects our behavior, via factors varying from subconscious sights and sounds to the weather. As a result, we alternately overestimate our capacity for free will or equate brains to inorganic machines like computers. But a brain is neither a soul nor an electrical network: it is a bodily organ, and it cannot be separated from its surroundings. Our selves aren't just inside our heads--they're spread throughout our bodies and beyond. Only once we come to terms with this can we grasp the true nature of our humanity."
+  },
+  "quotes": [
+    {
+      "text": "“Alan Jasanoff's elegant and spirited attack on what he calls our ‘cerebral mystique’ ... a lucid primer on current brain science that takes the form of a passionate warning about its limitations.”",
+      "source": "Wall Street Journal"
+    },
+    {
+      "text": "“The Biological Mind is chock-full of fun facts that entertain. And best of all, it makes you think. I found myself debating with Jasanoff in my head as I read--surely a sign of a worthy book.”",
+      "source": "New York Times"
+    },
+  ]
+}

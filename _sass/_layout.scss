@@ -47,3 +47,20 @@
   display: block;
   padding-bottom: 100%;
 }
+
+.index {
+  margin-top: -15px;
+  position: relative;
+  color: white;
+}
+
+.index img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  &:not(.active) {
+    opacity: 0;
+    transition: opacity 3s ease-in;
+  }
+  transition: opacity 3s ease-out;
+}

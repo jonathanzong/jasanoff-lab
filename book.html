@@ -1,0 +1,41 @@
+---
+---
+
+<div class="row">
+  <div class="col-sm-4">
+    <img src="/assets/images/book.png"/>
+  </div>
+  <div class="col-sm-8">
+    <div style="font-weight: bold">{{site.data.book.title}}</div>
+    {% for line in site.data.book.details %}
+      <div>{{line}}</div>
+    {% endfor %}
+    <p>
+      {{site.data.book.introduction}}
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-12">
+    <p>
+      {% for link in site.data.book.links %}
+        <a href="{{link.url}}">{{link.text}}</a><br/>
+      {% endfor %}
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-12">
+    <p style="font-weight: bold">
+      {{site.data.book.content.title}}
+    </p>
+    <p>
+      {{site.data.book.content.text}}
+    </p>
+    <div>
+      {% for quote in site.data.book.quotes %}
+        <p>{{quote.text}} — <span style="font-weight: bold">{{quote.source}}</span></p>
+      {% endfor %}
+    </div>
+  </div>
+</div>

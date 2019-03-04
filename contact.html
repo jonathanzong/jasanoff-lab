@@ -1,0 +1,38 @@
+---
+---
+
+{% include heading.html heading="Contact" %}
+
+<div class="row">
+  <div class="col-sm-3">
+    <p>
+      <a href="https://whereis.mit.edu/?go=16">
+        <img src="/assets/images/map.png"/>
+      </a>
+    </p>
+    <br/>
+    <p>
+      <img src="/assets/images/mit.svg"/>
+    </p>
+  </div>
+  <div class="col-sm-9">
+    {% for row in site.data.contact %}
+      <div class="row">
+        <div class="col-sm-4">
+          <p style="font-weight: bold">
+            {{row.label}}
+          </p>
+        </div>
+        <div class="col-sm-8">
+          <p>
+            {% for line in row.info %}
+              {{line}}<br/>
+            {% endfor %}
+          </p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+

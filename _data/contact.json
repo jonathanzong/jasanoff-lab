@@ -1,0 +1,10 @@
+[
+  {
+    "label": "General info",
+    "info": ["MIT Rm. 16-560", "77 Massachusetts Ave. (mail)", "32 Vassar St. (shipping only)", "Cambridge, MA 02139", "tel. 617-258-0667"]
+  },
+  {
+    "label": "PI contact info",
+    "info": ["Prof. Alan Jasanoff", "MIT Rm. 16-561", "tel. 617-452-2538", "jasanoff@mit.edu"]
+  },
+]
