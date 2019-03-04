@@ -1,27 +1,27 @@
 <div class="nav">
   <div class="button">
-    <img class="burger active" src="/assets/images/icons/burger.svg" width="48" height="48"/>
-    <img class="close" src="/assets/images/icons/close.svg" width="48" height="48"/>
+    <img class="burger active" src="{{ "/assets/images/icons/burger.svg" | prepend: site.baseurl }}" width="48" height="48"/>
+    <img class="close" src="{{ "/assets/images/icons/close.svg" | prepend: site.baseurl }}" width="48" height="48"/>
   </div>
 
   <nav class="nav-menu">
     <div>
-      <a href="/" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
+      <a href="{{ "/" | prepend: site.baseurl }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
     </div>
     <div>
-      <a href="/about" {% if page.url == '/about.html' %}class="active"{% endif %}>About</a>
+      <a href="{{ "/about" | prepend: site.baseurl }}" {% if page.url == '/about.html' %}class="active"{% endif %}>About</a>
     </div>
     <div>
-      <a href="/book" {% if page.url == '/book.html' %}class="active"{% endif %}>Book</a>
+      <a href="{{ "/book" | prepend: site.baseurl }}" {% if page.url == '/book.html' %}class="active"{% endif %}>Book</a>
     </div>
     <div>
-      <a href="/contact" {% if page.url == '/contact.html' %}class="active"{% endif %}>Contact</a>
+      <a href="{{ "/contact" | prepend: site.baseurl }}" {% if page.url == '/contact.html' %}class="active"{% endif %}>Contact</a>
     </div>
     <div>
-      <a href="/papers" {% if page.url == '/papers.html' %}class="active"{% endif %}>Papers</a>
+      <a href="{{ "/papers" | prepend: site.baseurl }}" {% if page.url == '/papers.html' %}class="active"{% endif %}>Papers</a>
     </div>
     <div>
-      <a href="/people" {% if page.url == '/people.html' %}class="active"{% endif %}>People</a>
+      <a href="{{ "/people" | prepend: site.baseurl }}" {% if page.url == '/people.html' %}class="active"{% endif %}>People</a>
     </div>
   </nav>
 
