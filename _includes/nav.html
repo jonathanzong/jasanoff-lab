@@ -1,11 +1,16 @@
-<nav>
-  <div class="nav-top">
-    <!-- <a href="/">jzy.</a> -->
+<div class="nav">
+  <div class="button">
+    <img class="burger active" src="/assets/images/icons/burger.svg" width="48" height="48"/>
+    <img class="close" src="/assets/images/icons/close.svg" width="48" height="48"/>
   </div>
-  <div class="nav-mid">
-    <!-- <a href="/bio" {% if page.url == '/bio' %}class="active"{% endif %}>bio</a>
-    <a href="/research" {% if page.url == '/research' %}class="active"{% endif %}>research</a>
-    <a href="/teaching" {% if page.url == '/teaching' %}class="active"{% endif %}>teaching</a>
-    <a href="/fun" {% if page.url == '/fun' %}class="active"{% endif %}>fun</a> -->
-  </div>
-</nav>
+
+  <nav class="nav-menu">
+    <a href="/" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
+    <a href="/about" {% if page.url == '/about' %}class="active"{% endif %}>About</a>
+    <a href="/book" {% if page.url == '/book' %}class="active"{% endif %}>Book</a>
+    <a href="/contact" {% if page.url == '/contact' %}class="active"{% endif %}>Contact</a>
+    <a href="/papers" {% if page.url == '/papers' %}class="active"{% endif %}>Papers</a>
+    <a href="/people" {% if page.url == '/people' %}class="active"{% endif %}>People</a>
+  </nav>
+
+</div>
