@@ -2,7 +2,7 @@ $(document).ready(function() {
   var element = $('.index img'),
     length = element.length,
     current = 0,
-    timeout = 5000;
+    timeout = 3000;
 
   if (element) {
     function changeSlide() {

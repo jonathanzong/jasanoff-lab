@@ -60,7 +60,9 @@ a {
 }
 
 .index {
-  margin-top: -15px;
+  margin-top: 7px;
+  margin-left: -10px;
+  margin-right: -10px;
   position: relative;
   color: white;
 }
@@ -70,21 +72,23 @@ a {
   top: 0;
   left: 0;
   opacity: 0;
-  transition: opacity 3s ease-in;
+  transition: opacity 1s ease-in;
   &.active {
     opacity: 1;
-    transition: opacity 3s ease-out;
+    transition: opacity 1s ease-out;
   }
 }
 
 .nav {
-  position: absolute;
+  position: fixed;
   z-index: 999;
-  top: 15px;
-  right: 30px;
 }
 
 .nav .button {
+  position: fixed;
+  z-index: 999;
+  top: 30px;
+  right: 45px;
   cursor: pointer;
   img {
     &.active {
@@ -102,10 +106,9 @@ a {
 
   position: fixed;
   top: 0;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 0;
   height: 100vh;
-  width: 750px;
+  width: 100vw;
   background: rgba(255,255,255,0.95);
   padding-top: 2em;
   text-align: center;
