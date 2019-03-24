@@ -89,13 +89,22 @@ a {
   z-index: 999;
   top: 30px;
   right: 45px;
+  @media (max-width: 750px) {
+    top: 15px;
+    right: 30px;
+  }
   cursor: pointer;
   img {
     &.active {
       display: block;
     }
     display: none;
+    @media (max-width: 750px) {
+      width: 32px;
+      height: 32px;
+    }
   }
+
 }
 
 .nav-menu {
