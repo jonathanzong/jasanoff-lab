@@ -12,17 +12,21 @@
       <a href="{{ "/about" | prepend: site.baseurl }}" {% if page.url == '/about.html' %}class="active"{% endif %}>About</a>
     </div>
     <div>
-      <a href="{{ "/book" | prepend: site.baseurl }}" {% if page.url == '/book.html' %}class="active"{% endif %}>Book</a>
-    </div>
-    <div>
-      <a href="{{ "/contact" | prepend: site.baseurl }}" {% if page.url == '/contact.html' %}class="active"{% endif %}>Contact</a>
-    </div>
-    <div>
       <a href="{{ "/papers" | prepend: site.baseurl }}" {% if page.url == '/papers.html' %}class="active"{% endif %}>Papers</a>
     </div>
     <div>
       <a href="{{ "/people" | prepend: site.baseurl }}" {% if page.url == '/people.html' %}class="active"{% endif %}>People</a>
     </div>
+    <div>
+      <a href="{{ "/news" | prepend: site.baseurl }}" {% if page.url == '/news.html' %}class="active"{% endif %}>News</a>
+    </div>
+    <div>
+      <a href="{{ "/contact" | prepend: site.baseurl }}" {% if page.url == '/contact.html' %}class="active"{% endif %}>Contact</a>
+    </div>
+    <div>
+      <a href="{{ "/book" | prepend: site.baseurl }}" id="book-nav" {% if page.url == '/book.html' %}class="active"{% endif %}>Book</a>
+    </div>
+
   </nav>
 
 </div>

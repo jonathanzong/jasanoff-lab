@@ -6,6 +6,15 @@ a {
   }
 }
 
+.book-page {
+  a {
+    color: blue;
+    &:hover {
+      color: #00a;
+    }
+  }
+}
+
 .container {
   position: relative;
   width: 750px;
@@ -75,7 +84,7 @@ a {
   transition: opacity 1s ease-in;
   &.active {
     opacity: 1;
-    transition: opacity 1s ease-out;
+    transition: opacity 0.7s ease-out;
   }
 }
 
@@ -128,8 +137,19 @@ a {
   font-size: 3em;
   text-decoration: none;
   color: red;
+  &#book-nav {
+    color: white;
+    text-shadow:
+      -3px -3px 0 #000,
+      3px -3px 0 #000,
+      -3px 3px 0 #000,
+      3px 3px 0 #000;
+    letter-spacing: 0.07em;
+  }
   &.active {
-    color: black;
+    color: black !important;
+    text-shadow: none !important;
+    letter-spacing: 0 !important;
   }
   &:hover:not(.active) {
     color: #e00;
