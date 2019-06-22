@@ -17,11 +17,7 @@ Find the `json` file corresponding to the page you want to edit. For example, `a
 
 To put a link in content, you can put an HTML `<a>` tag into your text. For example:
 ```
-{
-...
-  "body": "Our laboratory is developing <a href=\"www.example.com\">unprecedented technology</a> for molecular-level imaging in the nervous system."
-...
-}
+<a href=\"www.example.com\">link text</a>
 ```
 
 Please note the `\"` backslash before the quotes surrounding the url. This is slightly different from normal HTML, but is necessary in `json` files.
