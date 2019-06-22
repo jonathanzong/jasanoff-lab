@@ -8,7 +8,7 @@ Site content is in the `_data/` directory. In this directory, there is one `json
 
 Find the `json` file corresponding to the page you want to edit. For example, `about.json`. Edit this file to edit the text that will appear on the website.
 
-1. In the directory structure, at the top of the page, click on `_data`
+1. In the file explorer above, click on `_data`
 2. Click on the `json` file
 3. Click the pencil in the top right of the file preview to edit.
 4. When finished editing, scroll to the bottom and click "commit changes"
@@ -21,6 +21,10 @@ To put a link in content, you can put an HTML `<a>` tag into your text. For exam
 ```
 
 Please note the `\"` backslash before the quotes surrounding the url. This is slightly different from normal HTML, but is necessary in `json` files.
+
+### Adding images
+
+Upload images to the corresponding folder inside the `/assets/images` directory. There are folders for each of the `papers`, `people`, and `news` pages already set up. Then, edit the `json` file for the page to add the url to the image. Urls must start with `/assets/images`.
 
 ## Making backups
 
