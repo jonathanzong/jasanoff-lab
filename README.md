@@ -24,7 +24,7 @@ To put a link in content, you can put an HTML `<a>` tag into your text. For exam
 }
 ```
 
-Please note the `\"` backslash before the quotes. This is slightly different from normal HTML, but is necessary in `json` files.
+Please note the `\"` backslash before the quotes surrounding the url. This is slightly different from normal HTML, but is necessary in `json` files.
 
 ## Making backups
 
