@@ -2,9 +2,11 @@
   {
     "headline": "News headline",
     "subtitle": "This is the news subtitle.",
+    "img": "/assets/images/news/image1.jpg",
   },
   {
     "headline": "News headline",
     "subtitle": "This is the news subtitle.",
+    "img": "/assets/images/news/image1.jpg",
   },
 ]

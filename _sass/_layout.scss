@@ -8,7 +8,7 @@ a {
 
 .book-page {
   a {
-    color: blue;
+    color: #0284A0;
     &:hover {
       color: #00a;
     }
@@ -17,9 +17,9 @@ a {
 
 .container {
   position: relative;
-  width: 750px;
+  width: 767px;
   padding: 15px;
-  @media (max-width: 750px) {
+  @media (max-width: 767px) {
     width: 100%;
   }
 }
@@ -44,6 +44,9 @@ a {
   font-family: $title-font-family;
   font-size: 3em;
   margin-top: 2em;
+  @media (max-width: 767px) {
+    margin-top: 0;
+  }
 }
 
 .red-rule {
@@ -58,14 +61,17 @@ a {
 
 .square {
   width: 100%;
-  background: grey;
   margin-bottom: 1em;
 }
 
-.square:after {
-  content: "";
-  display: block;
-  padding-bottom: 100%;
+.paper-year {
+  font-weight: bold;
+  font-size: 2em;
+  margin-top: -12px;
+  text-align: right;
+  @media (max-width: 767px) {
+    text-align: left;
+  }
 }
 
 .index {
@@ -74,6 +80,7 @@ a {
   margin-right: -10px;
   position: relative;
   color: white;
+  padding-bottom: 177%;
 }
 
 .index img {
@@ -88,9 +95,23 @@ a {
   }
 }
 
+.index .clickspot {
+  position: absolute;
+  top: 20.4%;
+  left: 51.5%;
+  width: 41.5%;
+  height: 11.5%;
+}
+
 .nav {
   position: fixed;
   z-index: 999;
+  @media (max-width: 767px) {
+    position: relative;
+    width: 100vw;
+    height: 56px;
+    background: white;
+  }
 }
 
 .nav .button {
@@ -98,7 +119,7 @@ a {
   z-index: 999;
   top: 30px;
   right: 45px;
-  @media (max-width: 750px) {
+  @media (max-width: 767px) {
     top: 15px;
     right: 30px;
   }
@@ -108,7 +129,7 @@ a {
       display: block;
     }
     display: none;
-    @media (max-width: 750px) {
+    @media (max-width: 767px) {
       width: 32px;
       height: 32px;
     }
@@ -138,13 +159,7 @@ a {
   text-decoration: none;
   color: red;
   &#book-nav {
-    color: white;
-    text-shadow:
-      -3px -3px 0 #000,
-      3px -3px 0 #000,
-      -3px 3px 0 #000,
-      3px 3px 0 #000;
-    letter-spacing: 0.07em;
+    color: #777;
   }
   &.active {
     color: black !important;

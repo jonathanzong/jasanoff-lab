@@ -6,18 +6,23 @@
 {% for paper in site.data.papers %}
   <div class="row">
     <div class="col-sm-3">
-      <p style="font-weight: bold; font-size: 2em; margin-top: -12px; text-align: right">
+      <p class="paper-year">
         {{paper[0]}}
       </p>
       <div class="square">
+        {% if paper[1].img %}
+          <img src="{{ paper[1].img | prepend: site.baseurl }}" />
+        {% endif %}
       </div>
     </div>
     <div class="col-sm-9">
       <div class="red-rule" style="margin-bottom: 2em;">
       </div>
-      <p>
-        {{paper[1]}}
-      </p>
+      {% for citation in paper[1].papers %}
+        <p>
+          {{citation}}
+        </p>
+      {% endfor %}
     </div>
   </div>
 {% endfor %}

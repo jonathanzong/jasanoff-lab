@@ -2,21 +2,27 @@
   "introduction": "Our lab studies large-scale dynamics of the living brain using next-generation experimental methods. Here are some of our research interests:",
   "paragraphs": [
     {
-      "title": "Neuroengineering.",
-      "body": "Understanding functions of the brain requires a new generation of experimental tools suitable for probing defined components of neural activity on a brain-wide scale. Our laboratory is particularly focused on noninvasive approaches for mapping brain activity, including methods that could eventually be applied in human subjects. Our work involves the convergence of neuroscience, molecular and cellular bioengineering, and chemistry, including nanotechnology approaches for sensitive measurements of brain function. Our group brings together diverse interests and expertise at the interfaces between these fields."
+      "title": "Brain-wide dynamics.",
+      "body": "One of the greatest challenges in experimental neuroscience today is to understand how dynamic molecular and cellular phenomena in the brain give rise to emergent properties of behavior and cognition in mammals. Techniques we are developing and applying in our lab offer unique capability for making this connection, because they enable signaling processes to be measured in deep brain tissue, over wide regions of the brain, in live animals of any size. Some of the questions we are most interested in include:",
+      "points": [
+        "How do distinct neural and non-neural components contribute to sensory, behavioral, and cognitive functions of the brain?",
+        "How are neurochemically-defined signaling mechanisms engaged at a brain-wide level, and how do they shape local and global activity profiles?",
+        "What is the relationship between hemodynamic fMRI-based measurements of brain activity and underlying neurophysiological processes?",
+        "What are the molecular and cellular hallmarks of resting-state brain activity, and what are the central and peripheral drivers of resting-state function?",
+      ]
     },
     {
-      "title": "Brain-wide dynamics.",
-      "body": "Perhaps the greatest challenge in experimental neuroscience today is to understand how dynamic molecular and cellular phenomena in the brain give rise to emergent properties of behavior and cognition. Techniques we are developing and applying in our lab offer unique capability for making this connection, because they enable signaling processes to be measured in deep brain tissue, over wide regions of the brain, in live animals of any size. Some of the questions we are most interested in include:",
+      "title": "Neuroengineering.",
+      "body": "Understanding integrated functions of the brain requires a new generation of experimental tools suitable for probing defined components of neural function on a brain-wide scale. Our laboratory is particularly focused on noninvasive approaches for mapping brain activity, including methods that could eventually be applied in human subjects. This effort requires interdisciplinary collaboration at the interfaces between diverse fields, especially including:",
       "points": [
-        "a",
-        "b",
-        "c"
+        "Neuroscience, which frames the problems we work on and informs our technological innovations.",
+        "Biological engineering, ranging from methods for in vivo experimentation to bioengineering strategies for construction of novel neuroimaging probes.",
+        "Synthetic chemistry and nanotechnology, which we use heavily in the development of imaging probes and rigorous analysis of their performance.",
       ]
     },
     {
       "title": "Molecular imaging.",
-      "body": "Our laboratory is developing unprecedented technology for molecular-level imaging in the nervous system. We focus largely on magnetic resonance imaging (MRI)-based methods, because MRI can provide whole-brain in vivo analogs of the powerful readouts optical imaging offers in invasive or ex vivo contexts. Some of our tools are compatible with other imaging techniques as well. Our laboratory has achieved a number of important milestones, which we are continually seeking to exploit and build upon:",
+      "body": "text here",
       "points": [
         "a",
         "b",
