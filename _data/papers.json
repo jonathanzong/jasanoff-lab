@@ -29,6 +29,10 @@
       "Barandov A, Bartelle BB, Gonzalez BA, White WL, Lippard SJ, Jasanoff A. (2016) “Membrane-Permeable Mn(III) Complexes for Molecular Magnetic Resonance Imaging of Intracellular Targets.” J Am Chem Soc. 2016 May 4;138(17):5483-6.",
       "Bartelle BB, Barandov A, Jasanoff A. (2016) “Molecular fMRI.” J Neurosci. 2016 Apr 13;36(15):4139-48.",
       "Chen R, Christiansen MG, Sourakov A, Mohr A, Matsumoto Y, Okada S, Jasanoff A, Anikeeva P. (2016) “High-Performance Ferrite Nanoparticles through Nonaqueous Redox Phase Tuning.” Nano Lett. 2016 Feb 10;16(2):1345-51.",
+ "2015": {
+    "img": "/assets/images/papers/2015.jpg",
+    "papers": [
+      "Matsumoto Y, Chen R, Anikeeva P, Jasanoff A. (2015) “Engineering intracellular biomineralization and biosensing by a magnetic protein.” Nat Commun. 2015 Nov 2;6:8721.",      
     ],
   },
 }
