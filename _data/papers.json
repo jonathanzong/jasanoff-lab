@@ -52,6 +52,10 @@
       "Lee T, Cai LX, Lelyveld VS, Hai A, Jasanoff A. (2014) “Molecular-level functional magnetic resonance imaging of dopaminergic signaling.” Science. 2014 May 2;344(6183):533-5.",
       "Westmeyer GG, Emer Y, Lintelmann J, Jasanoff A. (2014) “MRI-based detection of alkaline phosphatase gene reporter activity using a porphyrin solubility switch.” Chem Biol. 2014 Mar 20;21(3):422-9.",
       "Rodriguez E, Lelyveld VS, Atanasijevic T, Okada S, Jasanoff A. (2014) “Magnetic nanosensors optimized for rapid and reversible self-assembly.” Chem Commun (Camb). 2014 Apr 7;50(27):3595-8.",
+  "2013": {
+    "img": "/assets/images/papers/2013.jpg",
+    "papers": [
+      "Devor A, Bandettini PA, Boas DA, Bower JM, Buxton RB, Cohen LB, Dale AM, Einevoll GT, Fox PT, Franceschini MA, Friston KJ, Fujimoto JG, Geyer MA, Greenberg JH, Halgren E, Hämäläinen MS, Helmchen F, Hyman BT, Jasanoff A, Jernigan TL, Judd LL, Kim SG, Kleinfeld D, Kopell NJ, Kutas M, Kwong KK, Larkum ME, Lo EH, Magistretti PJ, Mandeville JB, Masliah E, Mitra PP, Mobley WC, Moskowitz MA, Nimmerjahn A, Reynolds JH, Rosen BR, Salzberg BM, Schaffer CB, Silva GA, So PT, Spitzer NC, Tootell RB, Van Essen DC, Vanduffel W, Vinogradov SA, Wald LL, Wang LV, Weber B, Yodh AG.(2013) “The challenge of connecting the dots in the B.R.A.I.N.” Neuron. 2013 Oct 16;80(2):270-4.",
     ],
   },
 }
