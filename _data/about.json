@@ -1,5 +1,5 @@
 {
-  "introduction": "Our lab studies large-scale dynamics of the living brain using next-generation experimental methods. Here are some of our research interests:",
+  "introduction": "Our lab studies large-scale dynamics of the living brain using next-generation experimental methods. Below are some of our research interests.",
   "paragraphs": [
     {
       "title": "Brain-wide dynamics.",
@@ -22,11 +22,12 @@
     },
     {
       "title": "Molecular imaging.",
-      "body": "text here",
+      "body": "A core aim of the lab is to develop and apply unprecedented technology for molecular-level imaging in the nervous system. We focus largely on magnetic resonance imaging (MRI)-based methods, because MRI can provide whole-brain in vivo analogs of the powerful readouts optical imaging offers in invasive contexts. Some of our tools are compatible with other imaging techniques as well. Our laboratory has achieved a number of important milestones, which we seek to exploit and build upon. Some examples include:",
       "points": [
-        "a",
-        "b",
-        "c"
+        "Imaging of intracellular and extracellular signaling processes in the brain using noninvasive imaging in conjunction with molecular probes developed in our lab.",
+        "Introduction of some of the first protein-based and genetically-encodable sensors for molecular neuroimaging.",
+        "Novel exploitation of multiple chemical platforms for imaging agent design, including small molecular, nanostructural, and biomolecular components.",
+        "Demonstration of new contrast mechanisms, such as those involving implantable microdevices or engineered physiological processes."
       ]
     },
   ]
