@@ -1,17 +1,72 @@
 [
   {
+    "name": "Alan Jasanoff (PI)",
+    "bio": "Alan is interested in mechanistic studies of neural function using brain-wide measurements and on tool development for molecular neuroimaging.",
+    "img": "/assets/images/people/AlanJasanoff.jpg"
+  },
+  {
     "name": "Agata Wisniowska",
     "bio": "Agata works on the twin problems of achieving high sensitivity and wide-field coverage with molecular imaging probes for MRI.",
     "img": "/assets/images/people/AgataWisniowska.jpg"
   },
   {
-    "name": "Alan Jasanoff",
-    "bio": "Alan is interested in mechanistic studies of neural function using brain-wide measurements and on tool development for molecular neuroimaging.",
-    "img": "/assets/images/people/AlanJasanoff.jpg"
-  },
-  {
     "name": "Ali Barandov",
     "bio": "Ali works on synthesis and application of small-molecule sensors for molecular fMRI, with particular emphasis on calcium imaging.",
     "img": "/assets/images/people/AliBarandov.jpg"
+  },
+    {
+    "name": "Ben Bartelle",
+    "bio": "Ben is interested in bioengineering of novel probes and applications of cutting-edge molecular imaging in the nervous system.",
+    "img": "/assets/images/people/BenBartelle.jpg"
+  },
+    {
+    "name": "He Wei",
+    "bio": "He is a nanotechnology expert interested in applying nanoparticle-based imaging agents to measure molecular targets in the brain.",
+    "img": "/assets/images/people/HeWei.jpg"
+  },
+    {
+    "name": "Jacob Simon",
+    "bio": "Jacob works on a novel imaging agent architecture for ultrasensitive detection of neural signaling molecules.",
+    "img": "/assets/images/people/JacobSimon.jpg"
+  },
+    {
+    "name": "Kevin Chung",
+    "bio": "Kevin is interested in applying functional and molecular imaging for high resolution mapping of brain activity during behavior.",
+    "img": "/assets/images/people/KevinChung.jpg"
+  },
+    {
+    "name": "Miranda Dawson",
+    "bio": "Miranda is a bioengineer working on novel strategies for genetic imaging and mapping plasticity related processes in the brain.",
+    "img": "/assets/images/people/MirandaDawson.jpg"
+  },
+    {
+    "name": "Miriam Schwalm",
+    "bio": "Miriam focuses on application of novel imaging and recording techniques to study the brain-wide dynamics of neural activity.",
+    "img": "/assets/images/people/MiriamSchwalm.jpg"
+  },
+    {
+    "name": "Nan Li",
+    "bio": "Nan studies brain circuitry using molecular imaging tools and conventional fMRI, with particular emphasis on functions of the reward system.",
+    "img": "/assets/images/people/NanLi.jpg"
+  },
+    {
+    "name": "Pete Harvey",
+    "bio": "Pete works on small molecule contrast agent synthesis and on wide-field delivery of imaging agents to the brain.",
+    "img": "/assets/images/people/PeteHarvey.jpg"
+  },
+    {
+    "name": "Robert Ohlendorf",
+    "bio": "Robert works on developing probes that harness physiological processes to produce novel readouts in functional and molecular imaging.",
+    "img": "/assets/images/people/RobertOhlendorf.jpg"
+  },
+    {
+    "name": "Souparno Ghosh",
+    "bio": "Souparno is a bioengineer who focuses on genetically-encodable probes for functional imaging in the nervous system.",
+    "img": "/assets/images/people/SouparnoGhosh.jpg"
+  },
+    {
+    "name": "Wendy Xie",
+    "bio": "Wendy works on applications of genetic strategies for functional neuroimaging and on nanoprobe development.",
+    "img": "/assets/images/people/WendyXie.jpg"
   },
 ]
