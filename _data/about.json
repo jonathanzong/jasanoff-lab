@@ -1,5 +1,5 @@
 {
-  "introduction": "Our lab studies large-scale dynamics of the living brain using next-generation experimental methods. Below are some of our research interests.",
+  "introduction": "Our lab studies large-scale dynamics of the living brain using next-generation experimental methods. Below are some of our specific research interests.",
   "paragraphs": [
     {
       "title": "Brain-wide dynamics.",
@@ -28,6 +28,21 @@
         "Introduction of some of the first protein-based and genetically-encodable sensors for molecular neuroimaging.",
         "Novel exploitation of multiple chemical platforms for imaging agent design, including small molecular, nanostructural, and biomolecular components.",
         "Demonstration of new contrast mechanisms, such as those involving implantable microdevices or engineered physiological processes."
+      ]
+    },    {
+      "title": "Brain chemistry.",
+      "body": "Our group has a strong focus at the intersection of neuroscience and chemistry. We mean this in two senses: First, we make extensive use of methods from chemistry in our imaging probe development work, ranging from organic synthesis to bioconjugation and nanomaterials; we use rigorous chemical analyses and modeling to characterize probe function as well. Second, we study chemical processes in the brain that offer a counterpoint to more circuit-like conceptions of neural function. A few specific research aims include the following:",
+      "points": [
+        "Wide-scale mapping of neurochemical release topographies in the brain, and application of genetically-targeted fMRI probes in neurochemically-defined cells.",
+        "Exploration of relationships between neurochemical modulation and traditional measures of brain activity.",
+        "Measurement of chemical processes that are traditionally less studied, such as extracellular ionic dynamics and neurotransmitter reuptake profiles."
+      ]
+    },    {
+      "title": "Beyond the brain.",
+      "body": "Brain biology is contiguous with bodily and environmental influences that exert continuous influence on perception, action, and cognition. Our lab has an interest in understanding how the brain’s interactions with peripheral factors affect its function, sometimes even in the absence of explicit stimuli or behavioral tasks. Projects in the lab aim to address such phenomena in animals and humans:",
+      "points": [
+        "Correlation of neuroimaging signals with bodily processes outside the brain.",
+        "Identification of functionally significant brain-periphery interactions using perturbation experiments in animals."
       ]
     },
   ]
