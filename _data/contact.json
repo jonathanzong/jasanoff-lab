@@ -6,5 +6,9 @@
   {
     "label": "PI contact info",
     "info": ["Prof. Alan Jasanoff", "MIT Rm. 16-561", "tel. 617-452-2538", "jasanoff@mit.edu"]
+  },  
+  {
+    "label": "Admin contact",
+    "info": ["Diane Ballestas", "MIT Rm. 56-235", "tel. 617-258-9684", "dballest@mit.edu"]
   },
 ]
