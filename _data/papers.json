@@ -12,5 +12,12 @@
       "Okada S, Bartelle BB, Li N, Breton-Provencher V, Lee JJ, Rodriguez E, Melican J, Sur M, Jasanoff A (2018) “Calcium-dependent molecular fMRI using a magnetic sensor.” Nat Nanotechnol 13: 473-77.",
     ],
   }
+  "2016": {
+    "img": "/assets/images/papers/2016.jpg",
+    "papers": [
+      "Zhuo JM, Tseng HA, Desai M, Bucklin ME, Mohammed AI, Robinson NT, Boyden ES, Rangel LM, Jasanoff AP, Gritton HJ, Han X (2017) “Young adult born neurons enhance hippocampal dependent performance via influences on bilateral networks.” Elife 5: e22429.",
+      "Desai M, Slusarczyk AL, Chapin A, Barch M, Jasanoff A (2017) “Molecular imaging with engineered physiology.” Nat Commun 7: 13607.",
+  ],
+  }
 }
 
