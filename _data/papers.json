@@ -44,5 +44,11 @@
       "Matsumoto Y, Chen R, Anikeeva P, Jasanoff A. (2015) “Engineering intracellular biomineralization and biosensing by a magnetic protein.” Nat Commun. 2015 Nov 2;6:8721.",
     ],
   },
+  "2014": {
+    "img": "/assets/images/papers/2014.jpg",
+    "papers": [
+      "Chen O, Riedemann L, Etoc F, Herrmann H, Coppey M, Barch M, Farrar CT, Zhao J, Bruns OT, Wei H, Guo P, Cui J, Jensen R, Chen Y, Harris DK, Cordero JM, Wang Z, Jasanoff A, Fukumura D, Reimer R, Dahan M, Jain RK, Bawendi MG. (2014) “Magneto-fluorescent core-shell supernanoparticles.” Nat Commun. 2014 Oct 9;5:5093.",
+    ],
+  },
 }
 
