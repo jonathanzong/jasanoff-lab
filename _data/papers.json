@@ -121,5 +121,12 @@
       "Shapiro MG, Atanasijevic T, Faas H, Westmeyer GG, Jasanoff A. (2006) “Dynamic imaging with MRI contrast agents: quantitative considerations.” Magn Reson Imaging. 2006 May;24(4):449-62.",
     ],
   },
+  "2005": {
+    "img": "/assets/images/papers/2005.jpg",
+    "papers": [
+      "Kim SW, Kim S, Tracy JB, Jasanoff A, Bawendi MG. (2005) “Phosphine oxide polymer for water-soluble nanoparticles.” J Am Chem Soc. 2005 Apr 6;127(13):4556-7.",
+      "Jasanoff A. (2005) “Functional MRI using molecular imaging agents.” Trends Neurosci. 2005 Mar;28(3):120-6. Review.",
+    ],
+  },
 }
 
