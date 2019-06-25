@@ -107,7 +107,9 @@
     "img": "/assets/images/papers/2007.jpg",
     "papers": [
       "Jasanoff A. (2007) “MRI contrast agents for functional molecular imaging of brain activity.” Curr Opin Neurobiol. 2007 Oct;17(5):593-600.",
-      "Atanasijevic T, Jasanoff A. (2002) “Preparation of iron oxide-based calcium sensors for MRI..” Nat Protoc. 2007;2(10):2582-9.",
+      "Atanasijevic T, Jasanoff A. (2007) “Preparation of iron oxide-based calcium sensors for MRI..” Nat Protoc. 2007;2(10):2582-9.",
+      "Jasanoff A. (2007) “Bloodless FMRI.” Trends Neurosci. 2007 Nov;30(11):603-10.",
+      "Zhang XA, Lovejoy KS, Jasanoff A, Lippard SJ. (2007) “Water-soluble porphyrins as a dual-function molecular imaging platform for MRI and fluorescence zinc sensing.” Proc Natl Acad Sci U S A. 2007 Jun 26;104(26):10780-5.",
     ],
   },
 }
