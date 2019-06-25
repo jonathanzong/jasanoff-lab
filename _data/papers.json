@@ -113,5 +113,12 @@
       "Westmeyer GG, Jasanoff A. (2007) “Genetically controlled MRI contrast mechanisms and their prospects in systems neuroscience research.” Magn Reson Imaging. 2007 Jul;25(6):1004-10.",
     ],
   },
+  "2006": {
+    "img": "/assets/images/papers/2006.jpg",
+    "papers": [
+      "Green DF, Dennis AT, Fam PS, Tidor B, Jasanoff A. (2006) “Rational design of new binding specificity by simultaneous mutagenesis of calmodulin and a target peptide.” Biochemistry. 2006 Oct 17;45(41):12547-59.",
+      "Atanasijevic T, Shusteff M, Fam P, Jasanoff A. (2006) “Calcium-sensitive MRI contrast agents based on superparamagnetic iron oxide nanoparticles and calmodulin.” Proc Natl Acad Sci U S A. 2006 Oct 3;103(40):14707-12.",
+    ],
+  },
 }
 
