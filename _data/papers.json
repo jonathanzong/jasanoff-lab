@@ -87,6 +87,12 @@
       "Shapiro MG, Westmeyer GG, Romero PA, Szablowski JO, Küster B, Shah A, Otey CR, Langer R, Arnold FH, Jasanoff A. (2010) “Directed evolution of a magnetic resonance imaging contrast agent for noninvasive imaging of dopamine.”  Nat Biotechnol. 2010 Mar;28(3):264-70.",
       "Atanasijevic T, Zhang XA, Lippard SJ, Jasanoff A. (2010) “MRI sensing based on the displacement of paramagnetic ions from chelated complexes.” Inorg Chem. 2010 Mar 15;49(6):2589-91.",
       "Faas H, Jackson WS, Borkowski AW, Wang X, Ma J, Lindquist S, Jasanoff A (2010) “Context-dependent perturbation of neural systems in transgenic mice expressing a cytosolic prion protein.” Neuroimage. 2010 Feb 1;49(3):2607-17.",
+     ],
+  },
+  "2009": {
+    "img": "/assets/images/papers/2009.jpg",
+    "papers": [
+      "Jackson WS, Borkowski AW, Faas H, Steele AD, King OD, Watson N, Jasanoff A, Lindquist S. (2009) “Spontaneous generation of prion infectivity in fatal familial insomnia knockin mice.” Neuron. 2009 Aug 27;63(4):438-50.",
     ],
   },
 }
