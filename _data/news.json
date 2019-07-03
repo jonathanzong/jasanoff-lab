@@ -1,11 +1,21 @@
 [
   {
-    "headline": "News headline",
+    "headline": "News headline 1",
     "subtitle": "This is the news subtitle.",
     "img": "/assets/images/news/image1.jpg",
   },
   {
-    "headline": "News headline",
+    "headline": "News headline 2",
+    "subtitle": "This is the news subtitle.",
+    "img": "/assets/images/news/image1.jpg",
+  },
+  {
+    "headline": "News headline 3 is really really long and gets truncated to avoid running off the edge of the homepage",
+    "subtitle": "This is the news subtitle.",
+    "img": "/assets/images/news/image1.jpg",
+  },
+  {
+    "headline": "News headline 4",
     "subtitle": "This is the news subtitle.",
     "img": "/assets/images/news/image1.jpg",
   },

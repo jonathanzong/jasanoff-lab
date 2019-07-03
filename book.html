@@ -3,10 +3,10 @@
 
 <div class="book-page">
   <div class="row">
-    <div class="col-sm-4 col-xs-12">
-      <img src="{{ "/assets/images/book.png" | prepend: site.baseurl }}" style="width: 100%"/>
+    <div class="col-sm-4 col-xs-6">
+      <img src="{{ "/assets/images/book.png" | prepend: site.baseurl }}" style="width: 100%; margin-bottom: 0.5em"/>
     </div>
-    <div class="col-sm-8">
+    <div class="col-sm-8 col-xs-6">
       <div style="font-weight: bold">{{site.data.book.title}}</div>
       {% for line in site.data.book.details %}
         <div>{{line}}</div>

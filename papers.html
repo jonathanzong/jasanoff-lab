@@ -5,7 +5,7 @@
 
 {% for paper in site.data.papers %}
   <div class="row">
-    <div class="col-sm-3">
+    <div class="col-xs-3">
       <p class="paper-year">
         {{paper[0]}}
       </p>
@@ -15,7 +15,7 @@
         {% endif %}
       </div>
     </div>
-    <div class="col-sm-9">
+    <div class="col-xs-9">
       <div class="red-rule" style="margin-bottom: 2em;">
       </div>
       {% for citation in paper[1].papers %}

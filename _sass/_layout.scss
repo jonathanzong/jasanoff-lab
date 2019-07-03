@@ -21,6 +21,13 @@ a {
   padding: 15px;
   @media (max-width: 767px) {
     width: 100%;
+    padding-top: 62px;
+  }
+}
+
+.container-fluid {
+  @media (max-width: 767px) {
+    padding-top: 62px;
   }
 }
 
@@ -103,13 +110,33 @@ a {
   height: 11.5%;
 }
 
+.index .index-news {
+  position: absolute;
+  top: 42.4%;
+  left: 45.6%;
+  width: 54%;
+  height: 8.8%;
+  z-index: 99;
+  padding: 10px 15px;
+  a {
+    color: white;
+    font-weight: bold;
+    display: block;
+    font-size: 2vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}
+
 .nav {
   position: fixed;
   z-index: 999;
   @media (max-width: 767px) {
-    position: relative;
+    top: 0;
+    left: 0;
     width: 100vw;
-    height: 56px;
+    height: 62px;
     background: white;
   }
 }

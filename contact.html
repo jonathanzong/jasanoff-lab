@@ -4,7 +4,7 @@
 {% include heading.html heading="Contact" %}
 
 <div class="row">
-  <div class="col-sm-3">
+  <div class="col-xs-3">
     <p>
       <a href="https://whereis.mit.edu/?go=16">
         <img src="{{ "/assets/images/map.png" | prepend: site.baseurl }}"/>
@@ -15,15 +15,15 @@
       <img src="{{ "/assets/images/mit.svg" | prepend: site.baseurl }}"/>
     </p>
   </div>
-  <div class="col-sm-9">
+  <div class="col-xs-9">
     {% for row in site.data.contact %}
       <div class="row">
-        <div class="col-sm-4">
+        <div class="col-xs-4">
           <p style="font-weight: bold">
             {{row.label}}
           </p>
         </div>
-        <div class="col-sm-8">
+        <div class="col-xs-8">
           <p>
             {% for line in row.info %}
               {{line}}<br/>

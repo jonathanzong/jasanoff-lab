@@ -5,14 +5,14 @@
 
 {% for news in site.data.news %}
   <div class="row">
-    <div class="col-sm-3">
+    <div class="col-xs-3">
       <div class="square">
         {% if news.img %}
           <img src="{{ news.img | prepend: site.baseurl }}" />
         {% endif %}
       </div>
     </div>
-    <div class="col-sm-9">
+    <div class="col-xs-9">
       <p style="font-weight: bold">
         {{news.headline}}
       </p>
