@@ -118,6 +118,16 @@ a {
   height: 8.8%;
   z-index: 99;
   padding: 10px 15px;
+
+
+  @media (max-width: 767px) {
+    margin-top: -5px;
+  }
+
+  display: flex;
+  justify-content:center;
+  align-content:center;
+  flex-direction:column; /* column | row */
   a {
     color: white;
     font-weight: bold;

@@ -4,12 +4,16 @@
 {% include heading.html heading="About Us" %}
 
 <div class="row">
-  <div class="col-sm-3 col-xs-6">
-    <div class="square">
-      <img src="{{ "/assets/images/about.jpg" | prepend: site.baseurl }}" />
+  <div class="col-sm-3 col-xs-12">
+    <div class="row">
+      <div class="col-xs-6 col-sm-12">
+        <div class="square">
+          <img src="{{ "/assets/images/about.jpg" | prepend: site.baseurl }}" />
+        </div>
+      </div>
     </div>
   </div>
-  <div class="col-sm-9 col-xs-6">
+  <div class="col-sm-9 col-xs-12">
     <p style="font-weight: bold">
       {{site.data.about.introduction}}
     </p>

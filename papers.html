@@ -5,17 +5,21 @@
 
 {% for paper in site.data.papers %}
   <div class="row">
-    <div class="col-xs-3">
+    <div class="col-sm-3 col-xs-12">
       <p class="paper-year">
         {{paper[0]}}
       </p>
-      <div class="square">
-        {% if paper[1].img %}
-          <img src="{{ paper[1].img | prepend: site.baseurl }}" />
-        {% endif %}
+      <div class="row">
+        <div class="col-xs-6 col-sm-12">
+          <div class="square">
+            {% if paper[1].img %}
+              <img src="{{ paper[1].img | prepend: site.baseurl }}" />
+            {% endif %}
+          </div>
+        </div>
       </div>
     </div>
-    <div class="col-xs-9">
+    <div class="col-sm-9 col-xs-12">
       <div class="red-rule" style="margin-bottom: 2em;">
       </div>
       {% for citation in paper[1].papers %}
