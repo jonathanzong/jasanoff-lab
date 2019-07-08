@@ -5,15 +5,15 @@
   "links": [
     {
       "text": "Click here to see a presentation about the book, aimed at general viewership.",
-      "url": "www.mit.edu"
+      "url": "https://www.youtube.com/watch?v=28UxUyrpjXA"
     },
     {
       "text": "Click here to read a non-technical essay covering main points of the book.",
-      "url": "www.mit.edu"
+      "url": "https://aeon.co/essays/we-are-more-than-our-brains-on-neuroscience-and-being-human"
     },
     {
       "text": "Click here to view or purchase on Amazon.com.",
-      "url": "www.mit.edu"
+      "url": "https://www.amazon.com/Biological-Mind-Brain-Environment-Collaborate/dp/0465052681"
     }
   ],
   "content": {
