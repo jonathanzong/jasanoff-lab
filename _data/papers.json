@@ -2,7 +2,10 @@
    "2019": {
     "img": "/assets/images/papers/2019.jpg",
     "papers": [
-      "Barandov A, Bartelle BB, Williamson CG, Loucks ES, Lippard SJ, Jasanoff A. (2019) “Sensing intracellular calcium ions using a manganese-based MRI contrast agent.” Nat Commun 10: 897.",
+      {
+        "citation": "Barandov A, Bartelle BB, Williamson CG, Loucks ES, Lippard SJ, Jasanoff A. (2019) “Sensing intracellular calcium ions using a manganese-based MRI contrast agent.” Nat Commun 10: 897.",
+        "url": "https://www.nature.com/articles/s41467-019-08558-7"
+      },
       "Hai A, Spanoudaki VC, Bartelle BB, Jasanoff A. (2019) “Wireless resonant circuits for the minimally invasive sensing of biophysical processes in magnetic resonance imaging.” Nat Biomed Eng 3: 69-78.",
     ],
   },
@@ -12,7 +15,7 @@
       "Nguyen HV, Detappe A, Gallagher NM, Zhang H, Harvey P, Yan C, Mathieu C, Golder MR, Jiang Y, Ottaviani MF, Jasanoff A, Rajca A, Ghobrial I, Ghoroghchian PP, Johnson JA.(2018) “Triply Loaded Nitroxide Brush-Arm Star Polymers Enable Metal-Free Millimetric Tumor Detection by Magnetic Resonance Imaging.” ACS Nano 12: 11343-11354.",
       "Sigmund F, Massner C, Erdmann P, Stelzl A, Rolbieski H, Desai M, Bricault S, Wörner TP, Snijder J, Geerlof A, Fuchs H, Hrabe de Angelis M, Heck AJR, Jasanoff A, Nztiachristos V, Plitzko J, Westmeyer GG (2018) “Bacterial encapsulins as orthogonal compartments for mammalian cell engineering.” Nat Commun 9: 1990.",
       "Okada S, Bartelle BB, Li N, Breton-Provencher V, Lee JJ, Rodriguez E, Melican J, Sur M, Jasanoff A.(2018) “Calcium-dependent molecular fMRI using a magnetic nanosensor.” Nat Nanotechnol 13: 473-477.",
-      "Ghosh S, Harvey P, Simon JC, Jasanoff A. (2018) “Probing the brain with molecular fMRI.” Curr Opin Neurobiol 50: 201-210.",       
+      "Ghosh S, Harvey P, Simon JC, Jasanoff A. (2018) “Probing the brain with molecular fMRI.” Curr Opin Neurobiol 50: 201-210.",
     ],
   },
   "2017": {

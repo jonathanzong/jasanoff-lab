@@ -18,7 +18,14 @@
     </div>
     <div class="col-sm-9 col-xs-12">
       <p style="font-weight: bold">
-        {{news.headline}}
+        {% if news.url %}
+          <a style="color: black" href="{{news.url}}">
+        {% endif %}
+            {{news.headline}}
+        {% if news.url %}
+          </a>
+        {% endif %}
+
       </p>
       <p>
         {{news.subtitle}}

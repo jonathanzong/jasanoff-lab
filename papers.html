@@ -22,9 +22,13 @@
     <div class="col-sm-9 col-xs-12">
       <div class="red-rule" style="margin-bottom: 2em;">
       </div>
-      {% for citation in paper[1].papers %}
+      {% for entry in paper[1].papers %}
         <p>
-          {{citation}}
+        {% if entry.citation and entry.url %}
+          <a style="color: black" href="{{entry.url}}">{{entry.citation}}</a>
+        {% else %}
+          {{entry}}
+        {% endif %}
         </p>
       {% endfor %}
     </div>

@@ -22,6 +22,26 @@ To put a link in content, you can put an HTML `<a>` tag into your text. For exam
 
 Please note the `\"` backslash before the quotes surrounding the url. This is slightly different from normal HTML, but is necessary in `json` files.
 
+### Bolding and italicizing in content
+
+To bold a phrase in content, surround it with HTML `<strong>` tags.
+```
+<strong>This text will be bold</strong>
+```
+
+To italicize a phrase in content, surround it with HTML `<em>` tags.
+```
+<em>This text will be italic</em>
+```
+
+### Putting Quotation marks in content
+
+When writing the `"` character, the `json` file will complain because it uses that character to know when your content starts and ends. To type a `"` in content, put a backslash before it.
+
+```
+"This \"quote\" will work properly"
+```
+
 ### Adding images
 
 Upload images to the corresponding folder inside the `/assets/images` directory. There are folders for each of the `papers`, `people`, and `news` pages already set up. Then, edit the `json` file for the page to add the url to the image. Urls must start with `/assets/images`.

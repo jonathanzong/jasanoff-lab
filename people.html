@@ -18,7 +18,13 @@
     </div>
     <div class="col-sm-9 col-xs-12">
       <p style="font-weight: bold">
-        {{person.name}}
+        {% if person.email %}
+          <a style="color: black" href="mailto:{{person.email}}">
+        {% endif %}
+            {{person.name}}
+        {% if person.email %}
+          </a>
+        {% endif %}
       </p>
       <p>
         {{person.bio}}
