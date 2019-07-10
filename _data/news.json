@@ -9,85 +9,102 @@
     "headline": "New MRI sensor can image activity deep within the brain",
     "subtitle": "Noninvasive measurements of calcium could reveal neurons’ roles in different types of behavior.",
     "img": "/assets/images/news/calcium2_BW.jpg",
+    "url": "http://news.mit.edu/2019/mri-calcium-sensor-image-brain-0222"
   },
   {
     "headline": "Monitoring electromagnetic signals in the brain with MRI",
     "subtitle": "Technique could be used to detect light or electrical fields in living tissue.",
     "img": "/assets/images/news/ImpACT_BW.jpg",
+    "url": "http://news.mit.edu/2018/monitoring-electromagnetic-signals-brain-mri-1022"
   },
   {
     "headline": "Calcium-based MRI sensor enables more sensitive brain imaging",
     "subtitle": "System detects direct signals of neural activity; could reveal patterns underlying behavior.",
     "img": "/assets/images/news/calcium1_BW.jpg",
+    "url": "http://news.mit.edu/2018/calcium-based-mri-sensor-enables-more-sensitive-brain-imaging-0430"
   },
   {
     "headline": "Metal-free MRI contrast agent could be safer for some patients",
     "subtitle": "New agent could be used for certain high-risk groups and may enable longer-term tumor imaging.",
     "img": "/assets/images/news/Jeremiah_BW.jpg",
+    "url": "http://news.mit.edu/2017/metal-free-mri-contrast-agent-could-be-safer-some-patients-0712"
   },
   {
     "headline": "A radiation-free approach to imaging molecules in the brain",
     "subtitle": "New probe induces blood flow changes that can be seen by MRI.",
     "img": "/assets/images/news/CGRP_BW.jpg",
+    "url": "http://news.mit.edu/2016/radiation-free-approach-imaging-molecules-brain-mri-1202"
   },
   {
     "headline": "Mapping serotonin dynamics in the living brain",
     "subtitle": "Imaging technique that creates 3-D video of serotonin transport could aid antidepressant development.",
     "img": "/assets/images/news/serotonin_BW.jpg",
+    "url": "http://news.mit.edu/2016/mapping-serotonin-dynamics-living-brain-1020"
   },
   {
     "headline": "Engineers design magnetic cell sensors",
     "subtitle": "New protein nanoparticles allow scientists to track cells and interactions within them.",
     "img": "/assets/images/news/ferritin_BW.jpg",
+    "url": "http://news.mit.edu/2015/engineers-design-nanoparticles-magnetic-cell-sensors-1102"
   },
   {
     "headline": "Fifteen MIT scientists receive NIH BRAIN Initiative grants",
     "subtitle": "Today, the National Institutes of Health (NIH) announced their first round of BRAIN Initiative award recipients.",
     "img": "/assets/images/news/BRAIN_BW.jpg",
+    "url": "http://news.mit.edu/2014/fifteen-mit-scientists-receive-nih-brain-initiative-grants-0930"
   },
   {
     "headline": "Delving deep into the brain",
     "subtitle": "MRI sensor allows neuroscientists to map neural activity with molecular precision.",
     "img": "/assets/images/news/DAimaging_BW.jpg",
+    "url": "http://news.mit.edu/2014/delving-deep-into-the-brain-0501"
   },
   {
     "headline": "MRI reveals genetic activity",
     "subtitle": "New MIT technique could help decipher genes’ roles in learning and memory.",
     "img": "/assets/images/news/Alan_BW.jpg",
+    "url": "http://news.mit.edu/2014/mri-reveals-genetic-activity"
   },
   {
     "headline": "MIT launches the Center for Neurobiological Engineering",
     "subtitle": "Establishing a neuroengineering community that can set new research directions and address emerging issues in brain science.",
     "img": "/assets/images/news/CNBE_BW.jpg",
+    "url": "http://news.mit.edu/2013/mit-launches-the-center-for-neurobiological-engineering"
   },
   {
     "headline": "New tools to answer timeless questions",
     "subtitle": "Alan Jasanoff is designing imaging sensors that could help reveal the brain’s inner workings.",
     "img": "/assets/images/news/timelessquestions_BW.jpg",
+    "url": "http://news.mit.edu/2012/profile-jasonoff-0316"
   },
   {
     "headline": "Five from MIT win NIH grants",
     "subtitle": "Grants support biomedical research that will ‘challenge the status quo’ with risk-taking, innovative ideas.",
     "img": "/assets/images/news/NIHgrants2_BW.jpg",
+    "url": "http://news.mit.edu/2011/five-win-nih-grants"
   },
   {
     "headline": "New technique offers a more detailed view of brain activity",
     "subtitle": "‘Cleverly designed' MRI sensors detect dopamine, offering a high-resolution look at what’s happening inside the brain.",
     "img": "/assets/images/news/DAsensor_BW.jpg",
+    "url": "http://news.mit.edu/2010/brain-imaging-0301"
   },
   {
     "headline": "Four MIT faculty win NIH awards",
     "subtitle": "Four MIT faculty have been honored by the National Institutes of Health for their 'exceptionally innovative' research.",
     "img": "/assets/images/news/NIHgrants1_BW.jpg",
+    "url": "http://news.mit.edu/2007/pioneer-innovator-0918"
   },
   {
     "headline": "New high-resolution MRI machine comes to MIT",
     "subtitle": "A 9.4 Tesla Bruker magnet with a small (20 cm) bore, will be used for rodents and small primates.",
     "img": "/assets/images/news/newMRI_BW.jpg",
+    "url": "http://news.mit.edu/2007/scanner-0731"
   },
   {
     "headline": "Nanoparticles to aid brain imaging, team reports",
     "subtitle": "If you want to see precisely what the 100 billion neurons in a person's brain are doing, a good way to start is to track calcium.",
     "img": "/assets/images/news/nanoparticles_BW.jpg",
+    "url": "http://news.mit.edu/2006/imaging-neurons"
   }
 ]
