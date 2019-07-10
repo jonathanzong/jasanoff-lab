@@ -61,6 +61,11 @@
     "img": "/assets/images/people/RobertOhlendorf.jpg"
   },
     {
+    "name": "Sarah Bricault",
+    "bio": "Sarah studies drivers of resting-state brain activity, as well as neural dynamics involved in motivated behavior.",
+    "img": "/assets/images/people/SarahBricault.jpg"
+  },
+    {
     "name": "Souparno Ghosh",
     "bio": "Souparno is a bioengineer who focuses on genetically-encodable probes for functional imaging in the nervous system.",
     "img": "/assets/images/people/SouparnoGhosh.jpg"
