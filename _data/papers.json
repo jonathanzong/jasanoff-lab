@@ -6,7 +6,10 @@
         "citation": "Barandov A, Bartelle BB, Williamson CG, Loucks ES, Lippard SJ, Jasanoff A. (2019) “Sensing intracellular calcium ions using a manganese-based MRI contrast agent.” Nat Commun 10: 897.",
         "url": "https://www.nature.com/articles/s41467-019-08558-7"
       },
-      "Hai A, Spanoudaki VC, Bartelle BB, Jasanoff A. (2019) “Wireless resonant circuits for the minimally invasive sensing of biophysical processes in magnetic resonance imaging.” Nat Biomed Eng 3: 69-78.",
+      {
+        "citation": "Hai A, Spanoudaki VC, Bartelle BB, Jasanoff A. (2019) “Wireless resonant circuits for the minimally invasive sensing of biophysical processes in magnetic resonance imaging.” Nat Biomed Eng 3: 69-78.",
+        "url": "https://www.nature.com/articles/s41551-018-0309-8",
+      }
     ],
   },
   "2018": {
