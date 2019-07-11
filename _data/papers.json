@@ -21,13 +21,15 @@
          },
         {
       "citation": "Sigmund F, Massner C, Erdmann P, Stelzl A, Rolbieski H, Desai M, Bricault S, Wörner TP, Snijder J, Geerlof A, Fuchs H, Hrabe de Angelis M, Heck AJR, Jasanoff A, Nztiachristos V, Plitzko J, Westmeyer GG (2018) “Bacterial encapsulins as orthogonal compartments for mammalian cell engineering.” Nat Commun 9: 1990.",
-      "url": "https://www.nature.com/articles/s41467-018-04227-3"
+      "url": "https://www.nature.com/articles/s41467-018-04227-3",
        },
        {
-      "Okada S, Bartelle BB, Li N, Breton-Provencher V, Lee JJ, Rodriguez E, Melican J, Sur M, Jasanoff A.(2018) “Calcium-dependent molecular fMRI using a magnetic nanosensor.” Nat Nanotechnol 13: 473-77.",
+       "citation": "Okada S, Bartelle BB, Li N, Breton-Provencher V, Lee JJ, Rodriguez E, Melican J, Sur M, Jasanoff A.(2018) “Calcium-dependent molecular fMRI using a magnetic nanosensor.” Nat Nanotechnol 13: 473-77.",
       "Ghosh S, Harvey P, Simon JC, Jasanoff A. (2018) “Probing the brain with molecular fMRI.” Curr Opin Neurobiol 50: 201-10.",
+         "url": "https://www.nature.com/articles/s41565-018-0092-4",
+       }
     ],
-  },
+  }
   "2017": {
     "img": "/assets/images/papers/2017.jpg",
     "papers": [
