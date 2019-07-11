@@ -37,10 +37,22 @@
   "2017": {
     "img": "/assets/images/papers/2017.jpg",
     "papers": [
-      "Nguyen HV, Chen Q, Paletta JT, Harvey P, Jiang Y, Zhang H, Boska MD, Ottaviani MF, Jasanoff A, Rajca A, Johnson JA.(2017) “Nitroxide-Based Macromolecular Contrast Agents with Unprecedented Transverse Relaxivity and Stability for Magnetic Resonance Imaging of Tumors.” ACS Cent Sci 3: 800-11.",
-      "Wei H, Bruns OT, Kaul MG, Hansen EC, Barch M, Wiśniowska A, Chen O, Chen Y, Li N, Okada S, Cordero JM, Heine M, Farrar CT, Montana DM, Adam G, Ittrich H, Jasanoff A, Nielsen P, Bawendi MG. (2017) “Exceedingly small iron oxide nanoparticles as positive MRI contrast agents.” Proc Natl Acad Sci U S A. 114: 2325-30.",
-      "Fiallos AM, Bricault SJ, Cai LX, Worku HA, Colonnese MT, Westmeyer GG, Jasanoff A. (2017) “Reward magnitude tracking by neural populations in ventral striatum.” Neuroimage 146: 1003-15.",
-       "Zhuo JM, Tseng HA, Desai M, Bucklin ME, Mohammed AI, Robinson NT, Boyden ES, Rangel LM, Jasanoff AP, Gritton HJ, Han X (2017) “Young adult born neurons enhance hippocampal dependent performance via influences on bilateral networks.” Elife 5: e22429.",
+       {
+        "citation": "Nguyen HV, Chen Q, Paletta JT, Harvey P, Jiang Y, Zhang H, Boska MD, Ottaviani MF, Jasanoff A, Rajca A, Johnson JA.(2017) “Nitroxide-Based Macromolecular Contrast Agents with Unprecedented Transverse Relaxivity and Stability for Magnetic Resonance Imaging of Tumors.” ACS Cent Sci 3: 800-11.",
+         "url": "https://pubs.acs.org/doi/10.1021/acscentsci.7b00253"
+        },
+        {
+       "citation": "Wei H, Bruns OT, Kaul MG, Hansen EC, Barch M, Wiśniowska A, Chen O, Chen Y, Li N, Okada S, Cordero JM, Heine M, Farrar CT, Montana DM, Adam G, Ittrich H, Jasanoff A, Nielsen P, Bawendi MG. (2017) “Exceedingly small iron oxide nanoparticles as positive MRI contrast agents.” Proc Natl Acad Sci U S A. 114: 2325-30.",
+          "url": "https://www.pnas.org/content/114/9/2325"
+        },
+        {
+       "citation": "Fiallos AM, Bricault SJ, Cai LX, Worku HA, Colonnese MT, Westmeyer GG, Jasanoff A. (2017) “Reward magnitude tracking by neural populations in ventral striatum.” Neuroimage 146: 1003-15.",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1053811916305882?via%3Dihub"
+         },
+        {
+       "citation": "Zhuo JM, Tseng HA, Desai M, Bucklin ME, Mohammed AI, Robinson NT, Boyden ES, Rangel LM, Jasanoff AP, Gritton HJ, Han X (2017) “Young adult born neurons enhance hippocampal dependent performance via influences on bilateral networks.” Elife 5: e22429.",
+          "url": "https://elifesciences.org/articles/22429",
+      }
     ],
   },
   "2016": {
