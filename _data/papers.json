@@ -58,12 +58,30 @@
   "2016": {
     "img": "/assets/images/papers/2016.jpg",
     "papers": [
-      "Desai M, Slusarczyk AL, Chapin A, Barch M, Jasanoff A. (2016) “Molecular imaging with engineered physiology.” Nat Commun 7: 13607.",
-      "Hai A, Cai LX, Lee T, Lelyveld VS, Jasanoff A. (2016) “Molecular fMRI of Serotonin Transport.” Neuron 92: 754-65.",
-      "Anikeeva P, Jasanoff A. (2016) “Problems on the back of an envelope.” Elife 5: e19569.",
-      "Barandov A, Bartelle BB, Gonzalez BA, White WL, Lippard SJ, Jasanoff A. (2016) “Membrane-Permeable Mn(III) Complexes for Molecular Magnetic Resonance Imaging of Intracellular Targets.” J Am Chem Soc 138: 5483-6.",
-      "Bartelle BB, Barandov A, Jasanoff A. (2016) “Molecular fMRI.” J Neurosci 36: 4139-48.",
-      "Chen R, Christiansen MG, Sourakov A, Mohr A, Matsumoto Y, Okada S, Jasanoff A, Anikeeva P. (2016) “High-Performance Ferrite Nanoparticles through Nonaqueous Redox Phase Tuning.” Nano Lett 16: 1345-51.",
+        {
+        "citation": "Desai M, Slusarczyk AL, Chapin A, Barch M, Jasanoff A. (2016) “Molecular imaging with engineered physiology.” Nat Commun 7: 13607.",
+          "url": "https://www.nature.com/articles/ncomms13607"
+       },
+       {
+       "citation":"Hai A, Cai LX, Lee T, Lelyveld VS, Jasanoff A. (2016) “Molecular fMRI of Serotonin Transport.” Neuron 92: 754-65.",
+         "url": "https://www.sciencedirect.com/science/article/pii/S0896627316306535?via%3Dihub"
+        },
+        {
+       "citation": "Anikeeva P, Jasanoff A. (2016) “Problems on the back of an envelope.” Elife 5: e19569.",
+          "url": "https://elifesciences.org/articles/19569"
+       },
+       {
+       "citation":"Barandov A, Bartelle BB, Gonzalez BA, White WL, Lippard SJ, Jasanoff A. (2016) “Membrane-Permeable Mn(III) Complexes for Molecular Magnetic Resonance Imaging of Intracellular Targets.” J Am Chem Soc 138: 5483-6.",
+           "url": "https://pubs.acs.org/doi/10.1021/jacs.5b13337"
+      },
+      {
+       "citation": "Bartelle BB, Barandov A, Jasanoff A. (2016) “Molecular fMRI.” J Neurosci 36: 4139-48.",
+      "url": "https://pubs.acs.org/doi/10.1021/jacs.5b13337"
+      },
+      {
+       "citation": "Chen R, Christiansen MG, Sourakov A, Mohr A, Matsumoto Y, Okada S, Jasanoff A, Anikeeva P. (2016) “High-Performance Ferrite Nanoparticles through Nonaqueous Redox Phase Tuning.” Nano Lett 16: 1345-51.",
+         "url": "https://pubs.acs.org/doi/10.1021/acs.nanolett.5b04761",
+      }
     ],
   },
   "2015": {
