@@ -252,7 +252,7 @@
   "2006": {
     "img": "/assets/images/papers/2006.jpg",
     "papers": [
-        {
+      {
        "citation": "Green DF, Dennis AT, Fam PS, Tidor B, Jasanoff A. (2006) “Rational design of new binding specificity by simultaneous mutagenesis of calmodulin and a target peptide.” Biochemistry 45: 12547-59.",
           "url": "https://pubs.acs.org/doi/10.1021/bi060857u"
        },
@@ -269,7 +269,7 @@
   "2005": {
     "img": "/assets/images/papers/2005.jpg",
     "papers": [
-        {
+      {
        "citation":  "Kim SW, Kim S, Tracy JB, Jasanoff A, Bawendi MG. (2005) “Phosphine oxide polymer for water-soluble nanoparticles.” J Am Chem Soc 127: 4556-7.",
         "url": "https://pubs.acs.org/doi/10.1021/ja043577f"
        },
