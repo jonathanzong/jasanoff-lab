@@ -252,7 +252,7 @@
   "2006": {
     "img": "/assets/images/papers/2006.jpg",
     "papers": [
-       {
+      {
        "citation": "Green DF, Dennis AT, Fam PS, Tidor B, Jasanoff A. (2006) “Rational design of new binding specificity by simultaneous mutagenesis of calmodulin and a target peptide.” Biochemistry 45: 12547-59.",
         "url": "https://pubs.acs.org/doi/10.1021/bi060857u"
        },
