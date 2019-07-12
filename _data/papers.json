@@ -269,9 +269,14 @@
   "2005": {
     "img": "/assets/images/papers/2005.jpg",
     "papers": [
-      "Kim SW, Kim S, Tracy JB, Jasanoff A, Bawendi MG. (2005) “Phosphine oxide polymer for water-soluble nanoparticles.” J Am Chem Soc 127: 4556-7.",
-      "Jasanoff A. (2005) “Functional MRI using molecular imaging agents.” Trends Neurosci 28: 120-6.",
+        {
+       "citation":  "Kim SW, Kim S, Tracy JB, Jasanoff A, Bawendi MG. (2005) “Phosphine oxide polymer for water-soluble nanoparticles.” J Am Chem Soc 127: 4556-7.",
+        "url": "https://pubs.acs.org/doi/10.1021/ja043577f"
+       },
+      {  
+      "citation": "Jasanoff A. (2005) “Functional MRI using molecular imaging agents.” Trends Neurosci 28: 120-6.",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0166223604003935?via%3Dihub",
+      }
     ],
   },
-}
 
