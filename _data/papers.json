@@ -201,8 +201,14 @@
   "2009": {
     "img": "/assets/images/papers/2009.jpg",
     "papers": [
-      "Jackson WS, Borkowski AW, Faas H, Steele AD, King OD, Watson N, Jasanoff A, Lindquist S. (2009) “Spontaneous generation of prion infectivity in fatal familial insomnia knockin mice.” Neuron 63: 438-50.",
-      "Shapiro MG, Szablowski JO, Langer R, Jasanoff A. (2009) “Protein nanoparticles engineered to sense kinase activity in MRI.” J Am Chem Soc 131: 2484-6.",
+      {
+       "citation": "Jackson WS, Borkowski AW, Faas H, Steele AD, King OD, Watson N, Jasanoff A, Lindquist S. (2009) “Spontaneous generation of prion infectivity in fatal familial insomnia knockin mice.” Neuron 63: 438-50.",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0896627309005819?via%3Dihub"
+       },
+      {        
+      "citation": "Shapiro MG, Szablowski JO, Langer R, Jasanoff A. (2009) “Protein nanoparticles engineered to sense kinase activity in MRI.” J Am Chem Soc 131: 2484-6.",
+         "url": "https://pubs.acs.org/doi/10.1021/ja8086938",
+      }
     ],
   },
   "2008": {
