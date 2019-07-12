@@ -252,14 +252,14 @@
   "2006": {
     "img": "/assets/images/papers/2006.jpg",
     "papers": [
-      {
+       {
        "citation": "Green DF, Dennis AT, Fam PS, Tidor B, Jasanoff A. (2006) “Rational design of new binding specificity by simultaneous mutagenesis of calmodulin and a target peptide.” Biochemistry 45: 12547-59.",
-          "url": "https://pubs.acs.org/doi/10.1021/bi060857u"
+        "url": "https://pubs.acs.org/doi/10.1021/bi060857u"
        },
       {  
       "citation": "Atanasijevic T, Shusteff M, Fam P, Jasanoff A. (2006) “Calcium-sensitive MRI contrast agents based on superparamagnetic iron oxide nanoparticles and calmodulin.” Proc Natl Acad Sci U S A 103: 14707-12.",
-        "url": "https://www.pnas.org/content/103/40/14707"
-      },
+        "url": "https://www.pnas.org/content/103/40/14707"     
+       },
       {  
       "citation": "Shapiro MG, Atanasijevic T, Faas H, Westmeyer GG, Jasanoff A. (2006) “Dynamic imaging with MRI contrast agents: quantitative considerations.” Magn Reson Imaging 24: 449-62.",
        "url": "https://www.sciencedirect.com/science/article/pii/S0730725X06000579?via%3Dihub",
