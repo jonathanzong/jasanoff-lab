@@ -168,14 +168,35 @@
   "2010": {
     "img": "/assets/images/papers/2010.jpg",
     "papers": [
-      "Lelyveld VS, Atanasijevic T, Jasanoff A. (2010) “Challenges for Molecular Neuroimaging with MRI.” Int J Imaging Syst Technol 20: 71-79.",
-      "Lee T, Zhang XA, Dhar S, Faas H, Lippard SJ, Jasanoff A. (2010) “In vivo imaging with a cell-permeable porphyrin-based MRI contrast agent.” Chem Biol 17: 665-73.",
-      "You Y, Tomat E, Hwang K, Atanasijevic T, Nam W, Jasanoff AP, Lippard SJ. (2010) “Manganese displacement from Zinpyr-1 allows zinc detection by fluorescence microscopy and magnetic resonance imaging.” Chem Commun (Camb) 46: 4139-41.",
-      "Westmeyer GG, Durocher Y, Jasanoff A. (2010) “A secreted enzyme reporter system for MRI.” Angew Chem Int Ed Engl 49: 3909-11.",
-      "Shapiro MG, Westmeyer GG, Romero PA, Szablowski JO, Küster B, Shah A, Otey CR, Langer R, Arnold FH, Jasanoff A. (2010) “Directed evolution of a magnetic resonance imaging contrast agent for noninvasive imaging of dopamine.”  Nat Biotechnol 28: 264-70.",
-      "Atanasijevic T, Zhang XA, Lippard SJ, Jasanoff A. (2010) “MRI sensing based on the displacement of paramagnetic ions from chelated complexes.” Inorg Chem 49: 2589-91.",
-      "Faas H, Jackson WS, Borkowski AW, Wang X, Ma J, Lindquist S, Jasanoff A (2010) “Context-dependent perturbation of neural systems in transgenic mice expressing a cytosolic prion protein.” Neuroimage 49: 2607-17.",
-     ],
+       {
+       "citation": "Lelyveld VS, Atanasijevic T, Jasanoff A. (2010) “Challenges for Molecular Neuroimaging with MRI.” Int J Imaging Syst Technol 20: 71-79.",
+         "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ima.20221"
+       },
+      {
+       "citation": "Lee T, Zhang XA, Dhar S, Faas H, Lippard SJ, Jasanoff A. (2010) “In vivo imaging with a cell-permeable porphyrin-based MRI contrast agent.” Chem Biol 17: 665-73.",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1074552110001717?via%3Dihub"
+       },
+      { 
+       "citation": "You Y, Tomat E, Hwang K, Atanasijevic T, Nam W, Jasanoff AP, Lippard SJ. (2010) “Manganese displacement from Zinpyr-1 allows zinc detection by fluorescence microscopy and magnetic resonance imaging.” Chem Commun (Camb) 46: 4139-41.",
+       "url": "https://pubs.rsc.org/en/content/articlelanding/2010/CC/c0cc00179a#!divAbstract"
+       },
+      {  
+       "citation": "Westmeyer GG, Durocher Y, Jasanoff A. (2010) “A secreted enzyme reporter system for MRI.” Angew Chem Int Ed Engl 49: 3909-11.",
+         "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/anie.200906712"
+       },
+      {
+       "citation": "Shapiro MG, Westmeyer GG, Romero PA, Szablowski JO, Küster B, Shah A, Otey CR, Langer R, Arnold FH, Jasanoff A. (2010) “Directed evolution of a magnetic resonance imaging contrast agent for noninvasive imaging of dopamine.”  Nat Biotechnol 28: 264-70.",
+        "url": "https://www.nature.com/articles/nbt.1609"
+       },
+      { 
+       "citation": "Atanasijevic T, Zhang XA, Lippard SJ, Jasanoff A. (2010) “MRI sensing based on the displacement of paramagnetic ions from chelated complexes.” Inorg Chem 49: 2589-91.",
+        "url": "https://pubs.acs.org/doi/10.1021/ic100150e"
+       },
+      { 
+       "citation": "Faas H, Jackson WS, Borkowski AW, Wang X, Ma J, Lindquist S, Jasanoff A (2010) “Context-dependent perturbation of neural systems in transgenic mice expressing a cytosolic prion protein.” Neuroimage 49: 2607-17.",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1053811909010805?via%3Dihub",
+      }
+    ],
   },
   "2009": {
     "img": "/assets/images/papers/2009.jpg",
