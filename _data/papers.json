@@ -159,8 +159,11 @@
   "2011": {
     "img": "/assets/images/papers/2011.jpg",
     "papers": [
-      "Lelyveld VS, Brustad E, Arnold FH, Jasanoff A. (2011) “Metal-substituted protein MRI contrast agents engineered for enhanced relaxivity and ligand sensitivity.” J Am Chem Soc 133: 649-51.",
-       ],
+       {
+       "citation":  "Lelyveld VS, Brustad E, Arnold FH, Jasanoff A. (2011) “Metal-substituted protein MRI contrast agents engineered for enhanced relaxivity and ligand sensitivity.” J Am Chem Soc 133: 649-51.",
+         "url": "https://pubs.acs.org/doi/10.1021/ja107936d",
+      }
+    ],
   },
   "2010": {
     "img": "/assets/images/papers/2010.jpg",
