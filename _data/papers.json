@@ -214,8 +214,14 @@
   "2008": {
     "img": "/assets/images/papers/2008.jpg",
     "papers": [
-      "Matsumoto Y, Jasanoff A. (2008) “T2 relaxation induced by clusters of superparamagnetic nanoparticles: Monte Carlo simulations.” Magn Reson Imaging 26: 994-8.",
+      {
+       "citation": "Matsumoto Y, Jasanoff A. (2008) “T2 relaxation induced by clusters of superparamagnetic nanoparticles: Monte Carlo simulations.” Magn Reson Imaging 26: 994-8.",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0730725X08000945?via%3Dihub"
+       },
+      {     
       "Colonnese MT, Phillips MA, Constantine-Paton M, Kaila K, Jasanoff A. (2008) “Development of hemodynamic responses and functional connectivity in rat somatosensory cortex.” Nat Neurosci 11: 72-9.",
+        "url": "https://www.nature.com/articles/nn2017",
+      }
     ],
   },
   "2007": {
