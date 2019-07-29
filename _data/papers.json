@@ -3,6 +3,10 @@
     "img": "/assets/images/papers/2019.jpg",
     "papers": [
       {
+        "citation": "Alvaradejo GG, Nguyen HV, Harvey P, Gallagher NM, Le D, Ottaviani MF, Jasanoff A, Delaittre G, Johnson JA. (2019) “Polyoxazoline-Based Bottlebrush and Brush-Arm Star Polymers via ROMP: Syntheses and Applications as Organic Radical Contrast Agents.” ACS Macro Lett 4: 473-478",
+        "url": "https://pubs.acs.org/doi/10.1021/acsmacrolett.9b00016"
+      },
+      {
         "citation": "Barandov A, Bartelle BB, Williamson CG, Loucks ES, Lippard SJ, Jasanoff A. (2019) “Sensing intracellular calcium ions using a manganese-based MRI contrast agent.” Nat Commun 10: 897.",
         "url": "https://www.nature.com/articles/s41467-019-08558-7"
       },
