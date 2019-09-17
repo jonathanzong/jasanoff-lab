@@ -3,6 +3,10 @@
     "img": "/assets/images/papers/2019.jpg",
     "papers": [
       {
+        "citation": "Hsieh V, Okada S, Wei H, García-Álvarez I, Barandov A, Recuenco Alvarado S, Ohlendorf R, Fan J, Ortega A, Jasanoff A. (2019) “Neurotransmitter-responsive nanosensors for T2-weighted magnetic resonance imaging.” J Am Chem Soc 10: 1021",
+        "url": "https://pubs.acs.org/doi/10.1021/jacs.9b08744"
+      },
+      {
         "citation": "Alvaradejo GG, Nguyen HV, Harvey P, Gallagher NM, Le D, Ottaviani MF, Jasanoff A, Delaittre G, Johnson JA. (2019) “Polyoxazoline-Based Bottlebrush and Brush-Arm Star Polymers via ROMP: Syntheses and Applications as Organic Radical Contrast Agents.” ACS Macro Lett 8: 473-478.",
         "url": "https://pubs.acs.org/doi/10.1021/acsmacrolett.9b00016"
       },
