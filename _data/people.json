@@ -6,11 +6,6 @@
     "email": "jasanoff@mit.edu"
   },
   {
-    "name": "Agata Wisniowska, PhD",
-    "bio": "Agata works on the twin problems of achieving high sensitivity and wide-field coverage with molecular imaging probes for MRI.",
-    "img": "/assets/images/people/AgataWisniowska.jpg"
-  },
-  {
     "name": "Ali Barandov, PhD",
     "bio": "Ali works on synthesis and application of small-molecule sensors for molecular fMRI, with particular emphasis on calcium imaging.",
     "img": "/assets/images/people/AliBarandov.jpg"
@@ -49,11 +44,6 @@
     "name": "Nan Li, PhD",
     "bio": "Nan studies brain circuitry using molecular imaging tools and conventional fMRI, with particular emphasis on functions of the reward system.",
     "img": "/assets/images/people/NanLi.jpg"
-  },
-    {
-    "name": "Pete Harvey, PhD",
-    "bio": "Pete works on small molecule contrast agent synthesis and on wide-field delivery of imaging agents to the brain.",
-    "img": "/assets/images/people/PeteHarvey.jpg"
   },
     {
     "name": "Robert Ohlendorf, PhD",
