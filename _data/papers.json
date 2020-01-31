@@ -1,14 +1,14 @@
 {
-    "2020": {
+  "2020": {
     "img": "/assets/images/papers/2005.jpg",
     "papers": [
-       {
-       "citation":  "Bricault S, Barandov A, Harvey P, DeTienne E, Hai A, Jasanoff A. (2020) “Image-guided neural activity manipulation with a paramagnetic drug.” Nat Commun 11: 136.",
+      {
+         "citation":  "Bricault S, Barandov A, Harvey P, DeTienne E, Hai A, Jasanoff A. (2020) “Image-guided neural activity manipulation with a paramagnetic drug.” Nat Commun 11: 136.",
          "url": "https://www.nature.com/articles/s41467-019-13933-5"
       }
     ],
   },
-   "2019": {
+  "2019": {
     "img": "/assets/images/papers/2019.jpg",
     "papers": [
       {
