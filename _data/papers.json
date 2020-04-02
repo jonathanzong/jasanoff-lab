@@ -3,11 +3,6 @@
     "img": "/assets/images/papers/2005.jpg",
     "papers": [
       {
-          "citation":  "Li N, Jasanoff A. (2020) “Local and global consequences of reward-evoked striatal dopamine release.” Nat 580: 47.",
-         "url": "https://www.nature.com/articles/s41586-020-2158-3"
-      }
-    ],
-  },
          "citation":  "Bricault S, Barandov A, Harvey P, DeTienne E, Hai A, Jasanoff A. (2020) “Image-guided neural activity manipulation with a paramagnetic drug.” Nat Commun 11: 136.",
          "url": "https://www.nature.com/articles/s41467-019-13933-5"
       }
