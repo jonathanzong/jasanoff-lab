@@ -59,5 +59,10 @@
     "name": "Souparno Ghosh, PhD",
     "bio": "Souparno is a bioengineer who focuses on genetically-encodable probes for functional imaging in the nervous system.",
     "img": "/assets/images/people/SouparnoGhosh.jpg"
+        },
+    {
+      "name": "Christian Ioanas, PhD",
+      "bio": "Christian is interested in brain-wide measurements of neurochemical signaling and neuropharmacological effects.",
+      "img": "/assets/images/people/ChristianIoanas.jpg"
   }
 ]
