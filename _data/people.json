@@ -20,11 +20,11 @@
     "bio": "He is a nanotechnology expert interested in applying nanoparticle-based imaging agents to measure molecular targets in the brain.",
     "img": "/assets/images/people/HeWei.jpg"
    },
-    {
+     {
       "name": "Horea-Ioan Ioanas, PhD",
       "bio": "Christian is interested in brain-wide measurements of neurochemical signaling and neuropharmacological effects.",
       "img": "/assets/images/people/ChristianIoanas.jpg"
-     "email": "horea@mit.edu"
+      "email": "horea@mit.edu"
   },
     {
     "name": "Jacob Simon",
