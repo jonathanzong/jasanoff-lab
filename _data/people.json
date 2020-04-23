@@ -52,11 +52,12 @@
     "name": "Nan Li, PhD",
     "bio": "Nan studies brain circuitry using molecular imaging tools and conventional fMRI, with particular emphasis on functions of the reward system.",
     "img": "/assets/images/people/NanLi.jpg"
-  },
+    },
     {
     "name": "Robert Ohlendorf, PhD",
     "bio": "Robert works on developing probes that harness physiological processes to produce novel readouts in functional and molecular imaging.",
-    "img": "/assets/images/people/RobertOhlendorf.jpg"
+    "img": "/assets/images/people/RobertOhlendorf.jpg",
+    "email": "ohlendor@mit.edu"
   },
     {
     "name": "Sarah Bricault, PhD",
