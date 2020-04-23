@@ -25,11 +25,12 @@
       "bio": "Christian is interested in brain-wide measurements of neurochemical signaling and neuropharmacological effects.",
       "img": "/assets/images/people/ChristianIoanas.jpg",
       "email": "horea@mit.edu"
-  },
+    },
     {
     "name": "Jacob Simon",
     "bio": "Jacob works on a novel imaging agent architecture for ultrasensitive detection of neural signaling molecules.",
     "img": "/assets/images/people/JacobSimon.jpg"
+    "email": "jcsimon@mit.edu"
   },
     {
     "name": "Kevin Chung",
