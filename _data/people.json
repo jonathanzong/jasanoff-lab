@@ -19,6 +19,12 @@
     "name": "He Wei, PhD",
     "bio": "He is a nanotechnology expert interested in applying nanoparticle-based imaging agents to measure molecular targets in the brain.",
     "img": "/assets/images/people/HeWei.jpg"
+   },
+    {
+      "name": "Horea-Ioan Ioanas, PhD",
+      "bio": "Christian is interested in brain-wide measurements of neurochemical signaling and neuropharmacological effects.",
+      "img": "/assets/images/people/ChristianIoanas.jpg"
+      "email": "horea@mit.edu"
   },
     {
     "name": "Jacob Simon",
@@ -59,10 +65,5 @@
     "name": "Souparno Ghosh, PhD",
     "bio": "Souparno is a bioengineer who focuses on genetically-encodable probes for functional imaging in the nervous system.",
     "img": "/assets/images/people/SouparnoGhosh.jpg"
-        },
-    {
-      "name": "Christian Ioanas, PhD",
-      "bio": "Christian is interested in brain-wide measurements of neurochemical signaling and neuropharmacological effects.",
-      "img": "/assets/images/people/ChristianIoanas.jpg"
   }
 ]
