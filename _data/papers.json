@@ -2,7 +2,11 @@
   "2020": {
     "img": "/assets/images/papers/2020.jpg",
     "papers": [
-            {
+        {
+        "citation":  "Barandov A, Ghosh S, Li N, Bartelle B, Daher J, Pegis M, Collins, H, Jasanoff A. (2020) “Molecular Magnetic Resonance Imaging of Nitric Oxide in Biological Systems.” ACS Sens 5: 1674.",
+        "url": "https://pubs.acs.org/doi/10.1021/acssensors.0c00322"
+      },
+      {
         "citation":  "Ohlendorf R, Wisniowska A, Desai M, Barandov A, Slusarczyk A, Li N, Jasanoff A. (2020) “Target-responsive vasoactive probes for ultrasensitive molecular imaging.” Nat Commun 11: 2399.",
         "url": "https://www.nature.com/articles/s41467-020-16118-7"
       },
