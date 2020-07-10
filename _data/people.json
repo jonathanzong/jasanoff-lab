@@ -31,7 +31,12 @@
     "bio": "Jacob works on a novel imaging agent architecture for ultrasensitive detection of neural signaling molecules.",
     "img": "/assets/images/people/JacobSimon.jpg",
     "email": "jcsimon@mit.edu"
-  },
+    },
+    {
+    "name": "Kei Yamaura",
+    "bio": "Kei works on engineering paramagnetic probes for sensing a variety of neurotransmitters in the brain.",
+    "img": "/assets/images/people/KeiYamaura.jpg"
+    },
     {
     "name": "Kevin Chung",
     "bio": "Kevin is interested in applying functional and molecular imaging for high resolution mapping of brain activity during behavior.",
