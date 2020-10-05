@@ -219,3 +219,18 @@ strong {
 em {
   font-style: italic;
 }
+
+.footer-nav {
+  font-weight: bold;
+  text-align: right;
+  margin-bottom: 15px;
+
+  padding-right: 45px;
+  @media (max-width: 767px) {
+    padding-right: 30px;
+  }
+
+  a {
+    color: #b7b7b7;
+  }
+}
