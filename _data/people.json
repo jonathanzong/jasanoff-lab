@@ -71,6 +71,11 @@
     "img": "/assets/images/people/SarahBricault.jpg"
   },
     {
+    "name": "Sayani Das, PhD",
+    "bio": "Sayani is an expert in chemical probe design who works on contrast agents for ultrasensitive molecular neuroimaging.",
+    "img": "/assets/images/people/SayaniDas.jpg"       
+  },
+    {
     "name": "Souparno Ghosh, PhD",
     "bio": "Souparno is a bioengineer who focuses on genetically-encodable probes for functional imaging in the nervous system.",
     "img": "/assets/images/people/SouparnoGhosh.jpg"
