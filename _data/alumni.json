@@ -1,12 +1,20 @@
 [
   {
     "name": "Aviad Hai, PhD",
+    "title": "Faculty",
     "affiliation": "University of Wisconsin Madison",
     "link": "https://hailab.wisc.edu/"
   },
   {
     "name": "Benjamin Bartelle, PhD",
+    "title": "Faculty",
     "affiliation": "Arizona State University",
     "link": "http://www.bioprotean.org/"
+  },
+  {
+    "name": "Tatjana Atanasijevic, PhD",
+    "title": "Program officer",
+    "affiliation": "National Institutes of Health",
+    "link": ""
   },
 ]
