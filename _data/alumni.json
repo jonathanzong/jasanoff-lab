@@ -27,7 +27,13 @@
     "name": "Satoshi Okada, PhD",
     "title": "Faculty",
     "affiliation": "Tokyo Institute of Technology",
-      },
+  },
+  {
+    "name": "Mikhail Shapiro , PhD",
+    "title": "Faculty",
+    "affiliation": "Caltech",
+     "link": "https://shapirolab.caltech.edu/"
+  },
   {
     "name": "Philip Zhe Sun, PhD",
     "title": "Faculty",
