@@ -62,14 +62,14 @@
     "affiliation": "MilliporeSigma",
   },
   {
-    "name": "Agata Wisniowska, PhD",
-    "title": "Senior Consultant",
-    "affiliation": "Guidehouse",
-  },
-  {
     "name": "Philip Zhe Sun, PhD",
     "title": "Faculty",
     "affiliation": "Emory University",
      "link": "http://www.yerkes.emory.edu/research/divisions/neuropharmacology_neurologic_diseases/Sun_Phil.html"
+  },
+  {
+    "name": "Agata Wisniowska, PhD",
+    "title": "Senior Consultant",
+    "affiliation": "Guidehouse",
   },
 ]
