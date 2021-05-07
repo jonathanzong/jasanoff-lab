@@ -18,6 +18,11 @@
     "link": "https://www.colonneselab.org/people"
   },
   {
+    "name": "Henryk Faas, PhD",
+    "title": "Faculty",
+    "affiliation": "University of Nottingham, UK",
+  },
+  {
     "name": "Anna Fiallos, PhD",
     "title": "Faculty",
     "affiliation": "Florida International University",
@@ -31,8 +36,13 @@
   {
     "name": "Vivian Hsieh, PhD",
     "title": "Senior Research Scientist",
-    "affiliation": "Ligand Pharmaceuticals",   
-  },
+    "affiliation": "Ligand Pharmaceuticals",
+   },
+  {
+    "name": "Taekwan Lee, PhD",
+    "title": "Principal Researcher",
+    "affiliation": "Korea Brain Research Institute",
+   },
   {
     "name": "Victor Lelyveld, PhD",
     "title": "Postdoctoral Fellow",
@@ -49,6 +59,11 @@
     "name": "Satoshi Okada, PhD",
     "title": "Faculty",
     "affiliation": "Tokyo Institute of Technology",
+  },
+  {
+    "name": "Elisenda Rodriguez, PhD",
+    "title": "Faculty",
+    "affiliation": "International School of Freiburg, Germany",
   },
   {
     "name": "Mikhail Shapiro, PhD",
