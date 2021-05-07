@@ -22,6 +22,11 @@
     "link": "http://www.bioprotean.org/"
   },
   {
+     "name": "Lili Cai",
+    "title": "Data Scientist",
+    "affiliation": "Nielsen",
+  },
+  {
     "name": "Matthew Colonnese",
     "title": "Faculty",
     "affiliation": "George Washington University",
@@ -31,6 +36,11 @@
     "name": "Mitul Desai",
     "title": "Scientist",
     "affiliation": " iThera Medical GmbH",
+  },
+  {
+    "name": "Yelena Emer",
+    "title": "Data Scientist",
+    "affiliation": "Liberty Mutual Insurance",
   },
   {
     "name": "Henryk Faas",
@@ -62,7 +72,7 @@
   },
   {
     "name": "Vivian Hsieh",
-    "title": "Sr. Scientist",
+    "title": "Senior Scientist",
     "affiliation": "Ligand Pharmaceuticals",
    },
   {
