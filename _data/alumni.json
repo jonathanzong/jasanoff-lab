@@ -1,125 +1,135 @@
 [
   {
-     "name": "Tatjana Atanasijevic, PhD",
+     "name": "Tatjana Atanasijevic",
     "title": "Program Officer",
     "affiliation": "National Institutes of Health",
     "link": "https://www.nibib.nih.gov/about-nibib/staff/tatjana-atanasijevic"
   },
   {
-    "name": "Benjamin Bartelle, PhD",
+     "name": "Ali Barandov",
+    "title": "Consultant",
+    "affiliation": "Allianz SE"
+  },
+  {
+     "name": "Mariya Barch",
+    "title": "Scientist",
+    "affiliation": "Genentech",
+  },
+  {
+    "name": "Benjamin Bartelle",
     "title": "Faculty",
     "affiliation": "Arizona State University",
     "link": "http://www.bioprotean.org/"
   },
   {
-    "name": "Matthew Colonnese, PhD",
+    "name": "Matthew Colonnese",
     "title": "Faculty",
     "affiliation": "George Washington University",
     "link": "https://www.colonneselab.org/people"
   },
   {
-    "name": "Mitul Desai, PhD",
+    "name": "Mitul Desai",
     "title": "Scientist",
     "affiliation": " iThera Medical GmbH",
   },
   {
-    "name": "Henryk Faas, PhD",
+    "name": "Henryk Faas",
     "title": "Faculty",
-    "affiliation": "University of Nottingham, UK",
+    "affiliation": "University of Nottingham",
   },
   {
-    "name": "Anna Fiallos, PhD",
+    "name": "Ana Fiallos",
     "title": "Faculty",
     "affiliation": "Florida International University",
   },
   {
-     "name": "Isabel Garcia Alvarez, PhD",
+     "name": "Isabel Garcia Alvarez",
     "title": "Faculty",
-    "affiliation": "Universidad Francisco de Vitoria, Spain",
+    "affiliation": "Universidad Francisco de Vitoria",
     "link": "https://postgrado.ufv.es/profesores/isabel-garcia-alvarez/"    
   },
   {
-    "name": "Aviad Hai, PhD",
+    "name": "Aviad Hai",
     "title": "Faculty",
     "affiliation": "University of Wisconsin Madison",
     "link": "https://hailab.wisc.edu/"    
   },
   {
-     "name": "Peter Harvey, PhD",
+     "name": "Peter Harvey",
     "title": "Research Fellow",
-    "affiliation": "University of Nottingham, UK",
+    "affiliation": "University of Nottingham",
     "link": "https://www.nottingham.ac.uk/research/groups/neuroscience/people/peter.harvey"    
   },
   {
-    "name": "Vivian Hsieh, PhD",
-    "title": "Senior Research Scientist",
+    "name": "Vivian Hsieh",
+    "title": "Sr. Research Scientist",
     "affiliation": "Ligand Pharmaceuticals",
    },
   {
-    "name": "Taekwan Lee, PhD",
+    "name": "Taekwan Lee",
     "title": "Principal Researcher",
     "affiliation": "Korea Brain Research Institute",
    },
   {
-    "name": "Victor Lelyveld, PhD",
+    "name": "Victor Lelyveld",
     "title": "Postdoctoral Fellow",
     "affiliation": "Harvard University/Mass General Hospital",
      "link": "https://origins.harvard.edu/people/victor-lelyveld"
   },
   {
-     "name": "Nan Li, PhD",
+     "name": "Nan Li",
     "title": "Faculty",
-    "affiliation": "University of Texas Southwestern Medical Center",
+    "affiliation": "UT Southwestern Medical Center",
      "link": "https://profiles.utsouthwestern.edu/profile/196619/nan-li.html"
   },
   {
-     "name": "Yuri Matsumoto, PhD",
+     "name": "Yuri Matsumoto",
     "title": "Principal Scientist",
     "affiliation": "Verve Therapeutics",
     "link": "https://www.vervetx.com/about-us/"
   },
   {
-    "name": "Satoshi Okada, PhD",
+    "name": "Satoshi Okada",
     "title": "Faculty",
     "affiliation": "Tokyo Institute of Technology",
   },
   {
-    "name": "Elisenda Rodriguez, PhD",
-    "title": "Faculty",
+    "name": "Elisenda Rodriguez",
+    "title": "Instructor",
     "affiliation": "International School of Freiburg, Germany",
   },
   {
-    "name": "Mikhail Shapiro, PhD",
+    "name": "Mikhail Shapiro",
     "title": "Faculty",
     "affiliation": "Caltech",
      "link": "https://shapirolab.caltech.edu/"
   },
   {
-     "name": "Adrian Slusarczyk, PhD",
+     "name": "Adrian Slusarczyk",
     "title": "Consulting Manager",
     "affiliation": "MilliporeSigma",
   },
   {
-    "name": "Philip Zhe Sun, PhD",
+    "name": "Philip Zhe Sun",
     "title": "Faculty",
     "affiliation": "Emory University",
      "link": "http://www.yerkes.emory.edu/research/divisions/neuropharmacology_neurologic_diseases/Sun_Phil.html"
   },
   {
-    "name": "Gil Westmeyer, PhD",
+    "name": "Gil Westmeyer",
     "title": "Faculty",
-    "affiliation": "Technical University of Munich, Germany",
+    "affiliation": "Technical University of Munich",
     "link": "https://www.professoren.tum.de/en/westmeyer-gil"
   },
   {
-    "name": "Agata Wisniowska, PhD",
+    "name": "Agata Wisniowska",
     "title": "Senior Consultant",
     "affiliation": "Guidehouse",
   },
   {
-    "name": "Xiao-an Zhang, PhD",
+    "name": "Xiao-an Zhang",
     "title": "Faculty",
-    "affiliation": "University of Toronto, Canada",
+    "affiliation": "University of Toronto",
     "link": "https://www.utsc.utoronto.ca/physsci/xiao-zhang"
   },
 ]
